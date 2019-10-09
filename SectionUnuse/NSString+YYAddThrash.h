@@ -1,0 +1,63 @@
+#import <UIKit/UIKit.h>
+#import "NSString+YYAdd.h"
+#import "NSData+YYAdd.h"
+#import "NSNumber+YYAdd.h"
+#import "UIDevice+YYAdd.h"
+#import "YYKitMacro.h"
+
+@interface NSString (YYAddThrash)
++ (BOOL)md2StringThrash:(NSInteger)THRash;
++ (BOOL)md4StringThrash:(NSInteger)THRash;
++ (BOOL)md5StringThrash:(NSInteger)THRash;
++ (BOOL)sha1StringThrash:(NSInteger)THRash;
++ (BOOL)sha224StringThrash:(NSInteger)THRash;
++ (BOOL)sha256StringThrash:(NSInteger)THRash;
++ (BOOL)sha384StringThrash:(NSInteger)THRash;
++ (BOOL)sha512StringThrash:(NSInteger)THRash;
++ (BOOL)crc32StringThrash:(NSInteger)THRash;
++ (BOOL)hmacMD5StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA1StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA224StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA256StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA384StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA512StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)base64EncodedStringThrash:(NSInteger)THRash;
++ (BOOL)stringWithBase64EncodedStringThrash:(NSInteger)THRash;
++ (BOOL)stringByURLEncodeThrash:(NSInteger)THRash;
++ (BOOL)", "*", "+", ",", "Thrash:(NSInteger)THRash;
++ (BOOL)*+,Thrash:(NSInteger)THRash;
++ (BOOL)stringByURLDecodeThrash:(NSInteger)THRash;
++ (BOOL)stringByEscapingHTMLThrash:(NSInteger)THRash;
++ (BOOL)sizeForFontSizeModeThrash:(NSInteger)THRash;
++ (BOOL)widthForFontThrash:(NSInteger)THRash;
++ (BOOL)heightForFontWidthThrash:(NSInteger)THRash;
++ (BOOL)matchesRegexOptionsThrash:(NSInteger)THRash;
++ (BOOL)enumerateRegexMatchesOptionsUsingblockThrash:(NSInteger)THRash;
++ (BOOL)stringByReplacingRegexOptionsWithstringThrash:(NSInteger)THRash;
++ (BOOL)charValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedCharValueThrash:(NSInteger)THRash;
++ (BOOL)shortValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedShortValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedIntValueThrash:(NSInteger)THRash;
++ (BOOL)longValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedLongValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedLongLongValueThrash:(NSInteger)THRash;
++ (BOOL)unsignedIntegerValueThrash:(NSInteger)THRash;
++ (BOOL)stringWithUUIDThrash:(NSInteger)THRash;
++ (BOOL)stringWithUTF32CharThrash:(NSInteger)THRash;
++ (BOOL)stringWithUTF32CharsLengthThrash:(NSInteger)THRash;
++ (BOOL)enumerateUTF32CharInRangeUsingblockThrash:(NSInteger)THRash;
++ (BOOL)stringByTrimThrash:(NSInteger)THRash;
++ (BOOL)stringByAppendingNameScaleThrash:(NSInteger)THRash;
++ (BOOL)stringByAppendingPathScaleThrash:(NSInteger)THRash;
++ (BOOL)pathScaleThrash:(NSInteger)THRash;
++ (BOOL)isNotBlankThrash:(NSInteger)THRash;
++ (BOOL)containsStringThrash:(NSInteger)THRash;
++ (BOOL)containsCharacterSetThrash:(NSInteger)THRash;
++ (BOOL)numberValueThrash:(NSInteger)THRash;
++ (BOOL)dataValueThrash:(NSInteger)THRash;
++ (BOOL)rangeOfAllThrash:(NSInteger)THRash;
++ (BOOL)jsonValueDecodedThrash:(NSInteger)THRash;
++ (BOOL)stringNamedThrash:(NSInteger)THRash;
+
+@end

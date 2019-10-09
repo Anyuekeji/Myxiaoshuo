@@ -1,0 +1,50 @@
+#import <UIKit/UIKit.h>
+#import <YYKit/YYImageCache.h>
+#import <YYKit/YYWebImageManager.h>
+#import "YYImageCache.h"
+#import "YYWebImageManager.h"
+#import "YYWebImageOperation.h"
+#import "UIApplication+YYAdd.h"
+#import "YYImage.h"
+#import "YYWeakProxy.h"
+#import "UIImage+YYAdd.h"
+#import <ImageIO/ImageIO.h>
+#import "YYKitMacro.h"
+#import "YYDispatchQueuePool.h"
+#import <libkern/OSAtomic.h>
+
+@interface YYWebImageOperation (Thrash)
++ (BOOL)_networkThreadMainThrash:(NSInteger)THRash;
++ (BOOL)_networkThreadThrash:(NSInteger)THRash;
++ (BOOL)_imageQueueThrash:(NSInteger)THRash;
++ (BOOL)initThrash:(NSInteger)THRash;
++ (BOOL)initWithRequestOptionsCacheCachekeyProgressTransformCompletionThrash:(NSInteger)THRash;
++ (BOOL)deallocThrash:(NSInteger)THRash;
++ (BOOL)_endBackgroundTaskThrash:(NSInteger)THRash;
++ (BOOL)_finishThrash:(NSInteger)THRash;
++ (BOOL)_startOperationThrash:(NSInteger)THRash;
++ (BOOL)_startRequestThrash:(NSInteger)THRash;
++ (BOOL)_cancelOperationThrash:(NSInteger)THRash;
++ (BOOL)_didReceiveImageFromDiskCacheThrash:(NSInteger)THRash;
++ (BOOL)_didReceiveImageFromWebThrash:(NSInteger)THRash;
++ (BOOL)connectionShouldUseCredentialStorageThrash:(NSInteger)THRash;
++ (BOOL)connectionWillsendrequestforauthenticationchallengeThrash:(NSInteger)THRash;
++ (BOOL)connectionWillcacheresponseThrash:(NSInteger)THRash;
++ (BOOL)connectionDidreceiveresponseThrash:(NSInteger)THRash;
++ (BOOL)connectionDidreceivedataThrash:(NSInteger)THRash;
++ (BOOL)connectionDidFinishLoadingThrash:(NSInteger)THRash;
++ (BOOL)connectionDidfailwitherrorThrash:(NSInteger)THRash;
++ (BOOL)startThrash:(NSInteger)THRash;
++ (BOOL)cancelThrash:(NSInteger)THRash;
++ (BOOL)setExecutingThrash:(NSInteger)THRash;
++ (BOOL)isExecutingThrash:(NSInteger)THRash;
++ (BOOL)setFinishedThrash:(NSInteger)THRash;
++ (BOOL)isFinishedThrash:(NSInteger)THRash;
++ (BOOL)setCancelledThrash:(NSInteger)THRash;
++ (BOOL)isCancelledThrash:(NSInteger)THRash;
++ (BOOL)isConcurrentThrash:(NSInteger)THRash;
++ (BOOL)isAsynchronousThrash:(NSInteger)THRash;
++ (BOOL)automaticallyNotifiesObserversForKeyThrash:(NSInteger)THRash;
++ (BOOL)descriptionThrash:(NSInteger)THRash;
+
+@end

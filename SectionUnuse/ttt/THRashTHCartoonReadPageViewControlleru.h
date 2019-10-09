@@ -1,0 +1,41 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHCartoonReadPageViewControlleru: NSObject
++ (BOOL)OInitwithparathrash:(NSInteger)THRash;
++ (BOOL)CViewdidloadthrash:(NSInteger)THRash;
++ (BOOL)HDeallocthrash:(NSInteger)THRash;
++ (BOOL)ZShouldshownavigationbarthrash:(NSInteger)THRash;
++ (BOOL)tPrefersstatusbarhiddenthrash:(NSInteger)THRash;
++ (BOOL)vViewdidappearthrash:(NSInteger)THRash;
++ (BOOL)zViewwilldisappearthrash:(NSInteger)THRash;
++ (BOOL)GDidreceivememorywarningthrash:(NSInteger)THRash;
++ (BOOL)eConfigureuithrash:(NSInteger)THRash;
++ (BOOL)FConfiguredatathrash:(NSInteger)THRash;
++ (BOOL)IConfigurenotificationthrash:(NSInteger)THRash;
++ (BOOL)QCreatecartoonreadviewcontrollerwiththrash:(NSInteger)THRash;
++ (BOOL)bCreataddalertcontrollerthrash:(NSInteger)THRash;
++ (BOOL)EAddormoveloadingviewthrash:(NSInteger)THRash;
++ (BOOL)VChangetopviewstatusthrash:(NSInteger)THRash;
++ (BOOL)uGesturerecognizershouldreceivetouchthrash:(NSInteger)THRash;
++ (BOOL)pHandlesharethrash:(NSInteger)THRash;
++ (BOOL)fLoadcartoonchapterdatathrash:(NSInteger)THRash;
++ (BOOL)fHascurrentchapterthrash:(NSInteger)THRash;
++ (BOOL)aCartoonreadscrollviewdidscrollthrash:(NSInteger)THRash;
++ (BOOL)wNextchapterinreadviewcontrollerthrash:(NSInteger)THRash;
++ (BOOL)sPrechapterinreadviewcontrollerthrash:(NSInteger)THRash;
++ (BOOL)dBackinreadtopviewthrash:(NSInteger)THRash;
++ (BOOL)NShareinreadtopviewthrash:(NSInteger)THRash;
++ (BOOL)ySwitchunlockmodeinadverttisemodeireadtopviewunlockmodethrash:(NSInteger)THRash;
++ (BOOL)aPreviouschapterincartoonreadbottomviewthrash:(NSInteger)THRash;
++ (BOOL)GNextchapterincartoonreadbottompviewthrash:(NSInteger)THRash;
++ (BOOL)pChangenewpageresutltypethrash:(NSInteger)THRash;
++ (BOOL)yStartchangenewpageresutltypethrash:(NSInteger)THRash;
++ (BOOL)GMenuincartoonreadbottomviewthrash:(NSInteger)THRash;
++ (BOOL)JCommentincartoonreadbottomviewthrash:(NSInteger)THRash;
++ (BOOL)cLoadprogressvcthrash:(NSInteger)THRash;
++ (BOOL)kTopviewthrash:(NSInteger)THRash;
++ (BOOL)cBottomviewthrash:(NSInteger)THRash;
++ (BOOL)oSeteditstatethrash:(NSInteger)THRash;
++ (BOOL)mEventavaliablecheckthrash:(NSInteger)THRash;
++ (BOOL)hEventrecievedobjectwithparamsthrash:(NSInteger)THRash;
+
+@end

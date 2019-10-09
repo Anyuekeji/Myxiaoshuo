@@ -1,0 +1,13 @@
+#import <Foundation/Foundation.h>
+@interface THRashFBSDKServerConfigurationY: NSObject
++ (BOOL)lInitwithappidappnamelogintooltipenabledlogintooltiptextdefaultsharemodeadvertisingidenabledimplicitloggingenabledimplicitpurchaseloggingenabledcodelesseventsenabledsystemauthenticationenablednativeauthflowenableduninstalltrackingenableddialogconfigurationsdialogflowstimestamperrorconfigurationsessiontimeoutintervaldefaultsloggingtokensmartloginoptionssmartloginbookmarkiconurlsmartloginmenuiconurlupdatemessageeventbindingsthrash:(NSInteger)THRash;
++ (BOOL)FDialogconfigurationfordialognamethrash:(NSInteger)THRash;
++ (BOOL)RUsenativedialogfordialognamethrash:(NSInteger)THRash;
++ (BOOL)sUsesafariviewcontrollerfordialognamethrash:(NSInteger)THRash;
++ (BOOL)Z_Usefeaturewithkeydialognamethrash:(NSInteger)THRash;
++ (BOOL)SSupportssecurecodingthrash:(NSInteger)THRash;
++ (BOOL)TInitwithcoderthrash:(NSInteger)THRash;
++ (BOOL)jEncodewithcoderthrash:(NSInteger)THRash;
++ (BOOL)QCopywithzonethrash:(NSInteger)THRash;
+
+@end

@@ -1,0 +1,51 @@
+#import <Foundation/Foundation.h>
+#import "THRashNSDataM.h"
+
+@interface THRashNSDataM (Thrash)
++ (BOOL)uMd2StringthrashThrash:(NSInteger)THRash;
++ (BOOL)YMd2DatathrashThrash:(NSInteger)THRash;
++ (BOOL)LMd4StringthrashThrash:(NSInteger)THRash;
++ (BOOL)WMd4DatathrashThrash:(NSInteger)THRash;
++ (BOOL)yMd5StringthrashThrash:(NSInteger)THRash;
++ (BOOL)eMd5DatathrashThrash:(NSInteger)THRash;
++ (BOOL)ISha1StringthrashThrash:(NSInteger)THRash;
++ (BOOL)SSha1DatathrashThrash:(NSInteger)THRash;
++ (BOOL)FSha224StringthrashThrash:(NSInteger)THRash;
++ (BOOL)VSha224DatathrashThrash:(NSInteger)THRash;
++ (BOOL)gSha256StringthrashThrash:(NSInteger)THRash;
++ (BOOL)BSha256DatathrashThrash:(NSInteger)THRash;
++ (BOOL)jSha384StringthrashThrash:(NSInteger)THRash;
++ (BOOL)wSha384DatathrashThrash:(NSInteger)THRash;
++ (BOOL)XSha512StringthrashThrash:(NSInteger)THRash;
++ (BOOL)eSha512DatathrashThrash:(NSInteger)THRash;
++ (BOOL)xHmacstringusingalgwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)BHmacdatausingalgwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)sHmacmd5StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)mHmacmd5DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)uHmacsha1StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)IHmacsha1DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)vHmacsha224StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)FHmacsha224DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)zHmacsha256StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)SHmacsha256DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)oHmacsha384StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)BHmacsha384DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)nHmacsha512StringwithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)THmacsha512DatawithkeythrashThrash:(NSInteger)THRash;
++ (BOOL)WCrc32StringthrashThrash:(NSInteger)THRash;
++ (BOOL)LCrc32ThrashThrash:(NSInteger)THRash;
++ (BOOL)RAes256EncryptwithkeyivthrashThrash:(NSInteger)THRash;
++ (BOOL)JAes256DecryptwithkeyivthrashThrash:(NSInteger)THRash;
++ (BOOL)VUtf8StringthrashThrash:(NSInteger)THRash;
++ (BOOL)ZHexstringthrashThrash:(NSInteger)THRash;
++ (BOOL)eDatawithhexstringthrashThrash:(NSInteger)THRash;
++ (BOOL)UBase64EncodedstringthrashThrash:(NSInteger)THRash;
++ (BOOL)IDatawithbase64EncodedstringthrashThrash:(NSInteger)THRash;
++ (BOOL)lJsonvaluedecodedthrashThrash:(NSInteger)THRash;
++ (BOOL)tGzipinflatethrashThrash:(NSInteger)THRash;
++ (BOOL)YGzipdeflatethrashThrash:(NSInteger)THRash;
++ (BOOL)LZlibinflatethrashThrash:(NSInteger)THRash;
++ (BOOL)XZlibdeflatethrashThrash:(NSInteger)THRash;
++ (BOOL)IDatanamedthrashThrash:(NSInteger)THRash;
+
+@end

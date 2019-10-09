@@ -1,0 +1,55 @@
+#import <Foundation/Foundation.h>
+#import "THRashFBSDKAppEventsJ.h"
+
+@interface THRashFBSDKAppEventsJ (Thrash)
++ (BOOL)yinitializeThrash:(NSInteger)THRash;
++ (BOOL)cinitThrash:(NSInteger)THRash;
++ (BOOL)lregisterNotificationsThrash:(NSInteger)THRash;
++ (BOOL)PdeallocThrash:(NSInteger)THRash;
++ (BOOL)DLogeventThrash:(NSInteger)THRash;
++ (BOOL)LLogeventWValuetosumThrash:(NSInteger)THRash;
++ (BOOL)CLogeventeParametersThrash:(NSInteger)THRash;
++ (BOOL)rLogeventNValuetosumkParametersThrash:(NSInteger)THRash;
++ (BOOL)rLogeventXValuetosumRParametersqAccesstokenThrash:(NSInteger)THRash;
++ (BOOL)oLogpurchasedCurrencyThrash:(NSInteger)THRash;
++ (BOOL)KLogpurchasepCurrencywParametersThrash:(NSInteger)THRash;
++ (BOOL)tLogpurchaseXCurrencyrParametersTAccesstokenThrash:(NSInteger)THRash;
++ (BOOL)dLogpushnotificationopenThrash:(NSInteger)THRash;
++ (BOOL)WLogpushnotificationopennActionThrash:(NSInteger)THRash;
++ (BOOL)JLogproductitemSAvailabilitydConditioneDescriptionRImagelinkyLinkBTitletPriceamountTCurrencyxGtinYMpnTBrandOParametersThrash:(NSInteger)THRash;
++ (BOOL)WactivateAppThrash:(NSInteger)THRash;
++ (BOOL)XSetpushnotificationsdevicetokenThrash:(NSInteger)THRash;
++ (BOOL)rSetpushnotificationsdevicetokenstringThrash:(NSInteger)THRash;
++ (BOOL)eflushBehaviorThrash:(NSInteger)THRash;
++ (BOOL)YSetflushbehaviorThrash:(NSInteger)THRash;
++ (BOOL)LloggingOverrideAppIDThrash:(NSInteger)THRash;
++ (BOOL)mSetloggingoverrideappidThrash:(NSInteger)THRash;
++ (BOOL)kflushThrash:(NSInteger)THRash;
++ (BOOL)SSetuseridThrash:(NSInteger)THRash;
++ (BOOL)FclearUserIDThrash:(NSInteger)THRash;
++ (BOOL)ouserIDThrash:(NSInteger)THRash;
++ (BOOL)tSetuserdataThrash:(NSInteger)THRash;
++ (BOOL)oSetuseremailWFirstnameBLastnameVPhoneTDateofbirthaGenderfCitykStatewZipECountryThrash:(NSInteger)THRash;
++ (BOOL)BgetUserDataThrash:(NSInteger)THRash;
++ (BOOL)KclearUserDataThrash:(NSInteger)THRash;
++ (BOOL)LUpdateuserpropertiessHandlerThrash:(NSInteger)THRash;
++ (BOOL)NAugmenthybridwkwebviewThrash:(NSInteger)THRash;
++ (BOOL)dSetisunityinitThrash:(NSInteger)THRash;
++ (BOOL)psendEventBindingsToUnityThrash:(NSInteger)THRash;
++ (BOOL)lLogimpliciteventGValuetosumkParametersxAccesstokenThrash:(NSInteger)THRash;
++ (BOOL)PsingletonThrash:(NSInteger)THRash;
++ (BOOL)QFlushforreasonThrash:(NSInteger)THRash;
++ (BOOL)EappIDThrash:(NSInteger)THRash;
++ (BOOL)ypublishInstallThrash:(NSInteger)THRash;
++ (BOOL)lenableCodelessEventsThrash:(NSInteger)THRash;
++ (BOOL)QFetchserverconfigurationThrash:(NSInteger)THRash;
++ (BOOL)YInstancelogeventDValuetosumkParametersoIsimplicitlyloggedQAccesstokenThrash:(NSInteger)THRash;
++ (BOOL)BcheckPersistedEventsThrash:(NSInteger)THRash;
++ (BOOL)tFlushonmainqueueaForreasonThrash:(NSInteger)THRash;
++ (BOOL)AHandleactivitiespostcompletionhLoggingentryaAppeventsstateThrash:(NSInteger)THRash;
++ (BOOL)uFlushtimerfiredThrash:(NSInteger)THRash;
++ (BOOL)AapplicationDidBecomeActiveThrash:(NSInteger)THRash;
++ (BOOL)eapplicationMovingFromActiveStateOrTerminatingThrash:(NSInteger)THRash;
++ (BOOL)IRequestforcustomaudiencethirdpartyidwithaccesstokenThrash:(NSInteger)THRash;
+
+@end

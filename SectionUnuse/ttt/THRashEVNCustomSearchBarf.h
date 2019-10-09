@@ -1,0 +1,44 @@
+#import <Foundation/Foundation.h>
+@interface THRashEVNCustomSearchBarf: NSObject
++ (BOOL)wInitwithframethrash:(NSInteger)THRash;
++ (BOOL)bAwakefromnibthrash:(NSInteger)THRash;
++ (BOOL)RLayoutsubviewsthrash:(NSInteger)THRash;
++ (BOOL)sIntrinsiccontentsizethrash:(NSInteger)THRash;
++ (BOOL)SInitviewthrash:(NSInteger)THRash;
++ (BOOL)PCancelbuttonthrash:(NSInteger)THRash;
++ (BOOL)zTextfieldthrash:(NSInteger)THRash;
++ (BOOL)NSeticonalignthrash:(NSInteger)THRash;
++ (BOOL)YIconimgbuttonthrash:(NSInteger)THRash;
++ (BOOL)PIconcenterimgbuttonthrash:(NSInteger)THRash;
++ (BOOL)hAjusticonwiththrash:(NSInteger)THRash;
++ (BOOL)uTextthrash:(NSInteger)THRash;
++ (BOOL)oSettextthrash:(NSInteger)THRash;
++ (BOOL)TSettextfontthrash:(NSInteger)THRash;
++ (BOOL)RSettextborderstylethrash:(NSInteger)THRash;
++ (BOOL)NSettextcolorthrash:(NSInteger)THRash;
++ (BOOL)oSeticonimagethrash:(NSInteger)THRash;
++ (BOOL)LSetplaceholderthrash:(NSInteger)THRash;
++ (BOOL)HSetbackgroundimagethrash:(NSInteger)THRash;
++ (BOOL)ISetkeyboardtypethrash:(NSInteger)THRash;
++ (BOOL)vSetinputviewthrash:(NSInteger)THRash;
++ (BOOL)DIsuserinteractionenabledthrash:(NSInteger)THRash;
++ (BOOL)lSetinputaccessoryviewthrash:(NSInteger)THRash;
++ (BOOL)HSettextfieldcolorthrash:(NSInteger)THRash;
++ (BOOL)cSetplaceholdercolorthrash:(NSInteger)THRash;
++ (BOOL)fIsfirstresponderthrash:(NSInteger)THRash;
++ (BOOL)CResignfirstresponderthrash:(NSInteger)THRash;
++ (BOOL)MBecomefirstresponderthrash:(NSInteger)THRash;
++ (BOOL)YCancelbuttontouchedthrash:(NSInteger)THRash;
++ (BOOL)ZSetautocapitalizationmodethrash:(NSInteger)THRash;
++ (BOOL)YTextfieldshouldbegineditingthrash:(NSInteger)THRash;
++ (BOOL)BTextfielddidbegineditingthrash:(NSInteger)THRash;
++ (BOOL)GTextfieldshouldendeditingthrash:(NSInteger)THRash;
++ (BOOL)tTextfielddidendeditingthrash:(NSInteger)THRash;
++ (BOOL)cTextfielddidchangethrash:(NSInteger)THRash;
++ (BOOL)lTextfieldshouldchangecharactersinrangereplacementstringthrash:(NSInteger)THRash;
++ (BOOL)ITextfieldshouldclearthrash:(NSInteger)THRash;
++ (BOOL)KTextfieldshouldreturnthrash:(NSInteger)THRash;
++ (BOOL)LObservevalueforkeypathofobjectchangecontextthrash:(NSInteger)THRash;
++ (BOOL)qDeallocthrash:(NSInteger)THRash;
+
+@end

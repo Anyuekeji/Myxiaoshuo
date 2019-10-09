@@ -1,0 +1,51 @@
+#import <Foundation/Foundation.h>
+#import "THRashSDImageCacheK.h"
+
+@interface THRashSDImageCacheK (Thrash)
++ (BOOL)usharedImageCacheThrash:(NSInteger)THRash;
++ (BOOL)ginitThrash:(NSInteger)THRash;
++ (BOOL)wInitwithnamespaceThrash:(NSInteger)THRash;
++ (BOOL)ZInitwithnamespacebDiskcachedirectoryThrash:(NSInteger)THRash;
++ (BOOL)GInitwithnamespacerDiskcachedirectoryvConfigThrash:(NSInteger)THRash;
++ (BOOL)RdeallocThrash:(NSInteger)THRash;
++ (BOOL)oCachepathforkeyThrash:(NSInteger)THRash;
++ (BOOL)YuserCacheDirectoryThrash:(NSInteger)THRash;
++ (BOOL)imigrateDiskCacheDirectoryThrash:(NSInteger)THRash;
++ (BOOL)sStoreimagebForkeynCompletionThrash:(NSInteger)THRash;
++ (BOOL)CStoreimageLForkeyiTodiskMCompletionThrash:(NSInteger)THRash;
++ (BOOL)jStoreimagetImagedataDForkeyfTodiskBCompletionThrash:(NSInteger)THRash;
++ (BOOL)CStoreimageGImagedatauForkeyBTomemoryiTodiskuCompletionThrash:(NSInteger)THRash;
++ (BOOL)GStoreimagetomemoryhForkeyThrash:(NSInteger)THRash;
++ (BOOL)rStoreimagedatatodiskkForkeyThrash:(NSInteger)THRash;
++ (BOOL)v_StoreimagedatatodiskgForkeyThrash:(NSInteger)THRash;
++ (BOOL)HDiskimageexistswithkeyVCompletionThrash:(NSInteger)THRash;
++ (BOOL)IDiskimagedataexistswithkeyThrash:(NSInteger)THRash;
++ (BOOL)s_DiskimagedataexistswithkeyThrash:(NSInteger)THRash;
++ (BOOL)LDiskimagedataforkeyThrash:(NSInteger)THRash;
++ (BOOL)xImagefrommemorycacheforkeyThrash:(NSInteger)THRash;
++ (BOOL)tImagefromdiskcacheforkeyThrash:(NSInteger)THRash;
++ (BOOL)RImagefromcacheforkeyThrash:(NSInteger)THRash;
++ (BOOL)ZDiskimagedatabysearchingallpathsforkeyThrash:(NSInteger)THRash;
++ (BOOL)wDiskimageforkeyThrash:(NSInteger)THRash;
++ (BOOL)zDiskimageforkeyeDataThrash:(NSInteger)THRash;
++ (BOOL)LDiskimageforkeyMDataEOptionsFContextThrash:(NSInteger)THRash;
++ (BOOL)bQuerycacheoperationforkeymDoneThrash:(NSInteger)THRash;
++ (BOOL)sQuerycacheoperationforkeyBOptionsZDoneThrash:(NSInteger)THRash;
++ (BOOL)LQuerycacheoperationforkeyrOptionsTContextVDoneThrash:(NSInteger)THRash;
++ (BOOL)ERemoveimageforkeyEWithcompletionThrash:(NSInteger)THRash;
++ (BOOL)lRemoveimageforkeyUFromdiskxWithcompletionThrash:(NSInteger)THRash;
++ (BOOL)JRemoveimageforkeyyFrommemoryWFromdiskdWithcompletionThrash:(NSInteger)THRash;
++ (BOOL)ZRemoveimagefrommemoryforkeyThrash:(NSInteger)THRash;
++ (BOOL)CRemoveimagefromdiskforkeyThrash:(NSInteger)THRash;
++ (BOOL)O_RemoveimagefromdiskforkeyThrash:(NSInteger)THRash;
++ (BOOL)VclearMemoryThrash:(NSInteger)THRash;
++ (BOOL)YCleardiskoncompletionThrash:(NSInteger)THRash;
++ (BOOL)ZDeleteoldfileswithcompletionblockThrash:(NSInteger)THRash;
++ (BOOL)nApplicationwillterminateThrash:(NSInteger)THRash;
++ (BOOL)FApplicationdidenterbackgroundThrash:(NSInteger)THRash;
++ (BOOL)ptotalDiskSizeThrash:(NSInteger)THRash;
++ (BOOL)ftotalDiskCountThrash:(NSInteger)THRash;
++ (BOOL)oCalculatesizewithcompletionblockThrash:(NSInteger)THRash;
++ (BOOL)CImageoptionsfromcacheoptionsThrash:(NSInteger)THRash;
+
+@end

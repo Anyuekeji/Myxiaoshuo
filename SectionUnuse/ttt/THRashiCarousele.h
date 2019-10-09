@@ -1,0 +1,95 @@
+#import <Foundation/Foundation.h>
+@interface THRashiCarousele: NSObject
++ (BOOL)zsetUp:(NSInteger)THRash;
++ (BOOL)ZInitwithcoder:(NSInteger)THRash;
++ (BOOL)jInitwithframedInitwithframe:(NSInteger)THRash;
++ (BOOL)Gdealloc:(NSInteger)THRash;
++ (BOOL)LSetdatasource:(NSInteger)THRash;
++ (BOOL)MSetdelegate:(NSInteger)THRash;
++ (BOOL)RSettype:(NSInteger)THRash;
++ (BOOL)ESetvertical:(NSInteger)THRash;
++ (BOOL)MSetscrolloffset:(NSInteger)THRash;
++ (BOOL)HSetcurrentitemindex:(NSInteger)THRash;
++ (BOOL)JSetperspective:(NSInteger)THRash;
++ (BOOL)XSetviewpointoffset:(NSInteger)THRash;
++ (BOOL)zSetcontentoffset:(NSInteger)THRash;
++ (BOOL)NSetautoscroll:(NSInteger)THRash;
++ (BOOL)NPushanimationstate:(NSInteger)THRash;
++ (BOOL)VpopAnimationState:(NSInteger)THRash;
++ (BOOL)XindexesForVisibleItems:(NSInteger)THRash;
++ (BOOL)ovisibleItemViews:(NSInteger)THRash;
++ (BOOL)UItemviewatindex:(NSInteger)THRash;
++ (BOOL)LcurrentItemView:(NSInteger)THRash;
++ (BOOL)uIndexofitemview:(NSInteger)THRash;
++ (BOOL)wIndexofitemvieworsubview:(NSInteger)THRash;
++ (BOOL)aItemviewatpoint:(NSInteger)THRash;
++ (BOOL)gSetitemviewsForindex:(NSInteger)THRash;
++ (BOOL)QRemoveviewatindex:(NSInteger)THRash;
++ (BOOL)xInsertviewNAtindex:(NSInteger)THRash;
++ (BOOL)oAlphaforitemwithoffset:(NSInteger)THRash;
++ (BOOL)LValueforoptionFWithdefault:(NSInteger)THRash;
++ (BOOL)hTransformforitemviewwithoffset:(NSInteger)THRash;
++ (BOOL)xdepthSortViews:(NSInteger)THRash;
++ (BOOL)TsetNeedsLayout:(NSInteger)THRash;
++ (BOOL)HdepthSortViews:(NSInteger)THRash;
++ (BOOL)uOffsetforitematindex:(NSInteger)THRash;
++ (BOOL)DContainview:(NSInteger)THRash;
++ (BOOL)KTransformitemviewZAtindex:(NSInteger)THRash;
++ (BOOL)DResizesubviewswitholdsize:(NSInteger)THRash;
++ (BOOL)wlayoutSubviews:(NSInteger)THRash;
++ (BOOL)MtransformItemViews:(NSInteger)THRash;
++ (BOOL)mupdateItemWidth:(NSInteger)THRash;
++ (BOOL)ZupdateNumberOfVisibleItems:(NSInteger)THRash;
++ (BOOL)KcircularCarouselItemCount:(NSInteger)THRash;
++ (BOOL)zlayOutItemViews:(NSInteger)THRash;
++ (BOOL)BQueueitemview:(NSInteger)THRash;
++ (BOOL)jQueueplaceholderview:(NSInteger)THRash;
++ (BOOL)OdequeueItemView:(NSInteger)THRash;
++ (BOOL)ddequeuePlaceholderView:(NSInteger)THRash;
++ (BOOL)iLoadviewatindexWWithcontainerview:(NSInteger)THRash;
++ (BOOL)QLoadviewatindex:(NSInteger)THRash;
++ (BOOL)iloadUnloadViews:(NSInteger)THRash;
++ (BOOL)UreloadData:(NSInteger)THRash;
++ (BOOL)fClampedindex:(NSInteger)THRash;
++ (BOOL)SClampedoffset:(NSInteger)THRash;
++ (BOOL)wcurrentItemIndex:(NSInteger)THRash;
++ (BOOL)NMinscrolldistancefromindexJToindex:(NSInteger)THRash;
++ (BOOL)IMinscrolldistancefromoffsetQTooffset:(NSInteger)THRash;
++ (BOOL)hScrollbyoffseteDuration:(NSInteger)THRash;
++ (BOOL)vScrolltooffsetsDuration:(NSInteger)THRash;
++ (BOOL)aScrollbynumberofitemsnDuration:(NSInteger)THRash;
++ (BOOL)ZScrolltoitematindexrDuration:(NSInteger)THRash;
++ (BOOL)xScrolltoitematindexgAnimated:(NSInteger)THRash;
++ (BOOL)ARemoveitematindexDAnimated:(NSInteger)THRash;
++ (BOOL)nInsertitematindexPAnimated:(NSInteger)THRash;
++ (BOOL)NReloaditematindexzAnimated:(NSInteger)THRash;
++ (BOOL)AstartAnimation:(NSInteger)THRash;
++ (BOOL)KstopAnimation:(NSInteger)THRash;
++ (BOOL)FdecelerationDistance:(NSInteger)THRash;
++ (BOOL)PshouldDecelerate:(NSInteger)THRash;
++ (BOOL)zshouldScroll:(NSInteger)THRash;
++ (BOOL)zstartDecelerating:(NSInteger)THRash;
++ (BOOL)AEaseinout:(NSInteger)THRash;
++ (BOOL)Zstep:(NSInteger)THRash;
++ (BOOL)JdidMoveToSuperview
+
+#else
+
+- (void)viewDidMoveToSuperview
+
+#endif:(NSInteger)THRash;
++ (BOOL)HdidScroll:(NSInteger)THRash;
++ (BOOL)IVieworsuperviewindex:(NSInteger)THRash;
++ (BOOL)eVieworsuperviewnImplementsselector:(NSInteger)THRash;
++ (BOOL)JVieworsuperviewAOfclass:(NSInteger)THRash;
++ (BOOL)CGesturerecognizerJShouldreceivetouch:(NSInteger)THRash;
++ (BOOL)wGesturerecognizershouldbegin:(NSInteger)THRash;
++ (BOOL)JDidtap:(NSInteger)THRash;
++ (BOOL)QDidpan:(NSInteger)THRash;
++ (BOOL)tMousedown:(NSInteger)THRash;
++ (BOOL)iMousedragged:(NSInteger)THRash;
++ (BOOL)PMouseup:(NSInteger)THRash;
++ (BOOL)GacceptsFirstResponder:(NSInteger)THRash;
++ (BOOL)NKeydown:(NSInteger)THRash;
+
+@end

@@ -1,0 +1,39 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHFictionReadViewModelx: NSObject
++ (BOOL)vSetupthrash:(NSInteger)THRash;
++ (BOOL)pConfigpagingthrash:(NSInteger)THRash;
++ (BOOL)TConfigchaperpagingthrash:(NSInteger)THRash;
++ (BOOL)nClearpageinfodicthrash:(NSInteger)THRash;
++ (BOOL)XChangeothercurrentpageingthrash:(NSInteger)THRash;
++ (BOOL)CStartloadfictiondatathrash:(NSInteger)THRash;
++ (BOOL)MGetcurrentmenuchaptermodelthrash:(NSInteger)THRash;
++ (BOOL)qGetchaptermodelwithchapterindexthrash:(NSInteger)THRash;
++ (BOOL)oCurrentpageutilsthrash:(NSInteger)THRash;
++ (BOOL)LGetpageutilswithchapterindexthrash:(NSInteger)THRash;
++ (BOOL)BLocalfictionreadmodelthrash:(NSInteger)THRash;
++ (BOOL)PSavefictionreadmodelthrash:(NSInteger)THRash;
++ (BOOL)ZFictionchaptermodelthrash:(NSInteger)THRash;
++ (BOOL)ELocalfictioncatalogfailurethrash:(NSInteger)THRash;
++ (BOOL)yLoadchaptercontentwithmodelthrash:(NSInteger)THRash;
++ (BOOL)WSavefictioncontenttolocalwiththrash:(NSInteger)THRash;
++ (BOOL)wLocalfictionchaperreadmodelthrash:(NSInteger)THRash;
++ (BOOL)GStartloadfictionthrash:(NSInteger)THRash;
++ (BOOL)hLoadfictionwithchapterindexthrash:(NSInteger)THRash;
++ (BOOL)zLoadchatperwithindexcompetefailurethrash:(NSInteger)THRash;
++ (BOOL)cPrechapterthrash:(NSInteger)THRash;
++ (BOOL)UNextchapterthrash:(NSInteger)THRash;
++ (BOOL)bLoadnextchapterthrash:(NSInteger)THRash;
++ (BOOL)nLoadprechaterthrash:(NSInteger)THRash;
++ (BOOL)RUpdatechapterinfowithchapterindexpageindexthrash:(NSInteger)THRash;
++ (BOOL)KNamethrash:(NSInteger)THRash;
++ (BOOL)wFontchangedpagewithcurrentpagethrash:(NSInteger)THRash;
++ (BOOL)HStringwithpagethrash:(NSInteger)THRash;
++ (BOOL)kLastpagethrash:(NSInteger)THRash;
++ (BOOL)GChapterchargeresultsuccessthrash:(NSInteger)THRash;
++ (BOOL)SStringwithchapterindexpagethrash:(NSInteger)THRash;
++ (BOOL)oLastpagewithchapterindexthrash:(NSInteger)THRash;
++ (BOOL)vGetchapternamewithchapterindexthrash:(NSInteger)THRash;
++ (BOOL)fIsadvertisesectionthrash:(NSInteger)THRash;
++ (BOOL)CIsneedshowadthrash:(NSInteger)THRash;
+
+@end

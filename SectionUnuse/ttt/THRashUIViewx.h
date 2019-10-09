@@ -1,0 +1,44 @@
+#import <Foundation/Foundation.h>
+@interface THRashUIViewx: NSObject
++ (BOOL)jleft:(NSInteger)THRash;
++ (BOOL)nSetleft:(NSInteger)THRash;
++ (BOOL)Ttop:(NSInteger)THRash;
++ (BOOL)USettop:(NSInteger)THRash;
++ (BOOL)uright:(NSInteger)THRash;
++ (BOOL)nSetright:(NSInteger)THRash;
++ (BOOL)Hbottom:(NSInteger)THRash;
++ (BOOL)fSetbottom:(NSInteger)THRash;
++ (BOOL)gcenterX:(NSInteger)THRash;
++ (BOOL)OSetcenterx:(NSInteger)THRash;
++ (BOOL)tcenterY:(NSInteger)THRash;
++ (BOOL)ESetcentery:(NSInteger)THRash;
++ (BOOL)Rwidth:(NSInteger)THRash;
++ (BOOL)GSetwidth:(NSInteger)THRash;
++ (BOOL)xheight:(NSInteger)THRash;
++ (BOOL)ZSetheight:(NSInteger)THRash;
++ (BOOL)GscreenX:(NSInteger)THRash;
++ (BOOL)YscreenY:(NSInteger)THRash;
++ (BOOL)YscreenViewX:(NSInteger)THRash;
++ (BOOL)lscreenViewY:(NSInteger)THRash;
++ (BOOL)vscreenFrame:(NSInteger)THRash;
++ (BOOL)Morigin:(NSInteger)THRash;
++ (BOOL)FSetorigin:(NSInteger)THRash;
++ (BOOL)ysize:(NSInteger)THRash;
++ (BOOL)hSetsize:(NSInteger)THRash;
++ (BOOL)RorientationWidth:(NSInteger)THRash;
++ (BOOL)RorientationHeight:(NSInteger)THRash;
++ (BOOL)oDescendantorselfwithclass:(NSInteger)THRash;
++ (BOOL)qAncestororselfwithclass:(NSInteger)THRash;
++ (BOOL)NOffsetfromview:(NSInteger)THRash;
++ (BOOL)OSettapactionwithblock:(NSInteger)THRash;
++ (BOOL)q__Handleactionfortapgesture:(NSInteger)THRash;
++ (BOOL)bSetlongpressactionwithblock:(NSInteger)THRash;
++ (BOOL)B__Handleactionforlongpressgesture:(NSInteger)THRash;
++ (BOOL)KremoveAllSubviews:(NSInteger)THRash;
++ (BOOL)dSetbackgroundimageview:(NSInteger)THRash;
++ (BOOL)tbackgroundImageView:(NSInteger)THRash;
++ (BOOL)QSetbackgroundimage:(NSInteger)THRash;
++ (BOOL)tbackgroundImage:(NSInteger)THRash;
++ (BOOL)ssetUpBackgroundImageView:(NSInteger)THRash;
+
+@end

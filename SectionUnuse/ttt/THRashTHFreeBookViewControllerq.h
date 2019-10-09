@@ -1,0 +1,39 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHFreeBookViewControllerq: NSObject
++ (BOOL)gInitwithpara:(NSInteger)THRash;
++ (BOOL)tviewDidLoad:(NSInteger)THRash;
++ (BOOL)QViewwillappear:(NSInteger)THRash;
++ (BOOL)oconfigurateTableView:(NSInteger)THRash;
++ (BOOL)EconfigurateData:(NSInteger)THRash;
++ (BOOL)WLoadfreefictionlistFComplete:(NSInteger)THRash;
++ (BOOL)NloadBannerList:(NSInteger)THRash;
++ (BOOL)vLoadsearchlistwithtextbRefreshrComplete:(NSInteger)THRash;
++ (BOOL)NtopRefreshControl:(NSInteger)THRash;
++ (BOOL)vbottomRefreshControl:(NSInteger)THRash;
++ (BOOL)WNumberofsectionsintableview:(NSInteger)THRash;
++ (BOOL)BTableviewfNumberofrowsinsection:(NSInteger)THRash;
++ (BOOL)yTableviewwCellforrowatindexpath:(NSInteger)THRash;
++ (BOOL)kTableviewKHeightforrowatindexpath:(NSInteger)THRash;
++ (BOOL)DTableviewyEstimatedheightforrowatindexpath:(NSInteger)THRash;
++ (BOOL)STableviewTDidselectrowatindexpath:(NSInteger)THRash;
++ (BOOL)fScrollviewwillenddraggingaWithvelocityUTargetcontentoffset:(NSInteger)THRash;
++ (BOOL)OLetablerefreshchokeaction:(NSInteger)THRash;
++ (BOOL)RLetableloadmorechokeaction:(NSInteger)THRash;
++ (BOOL)ZleTableLoadNotAnyMore:(NSInteger)THRash;
++ (BOOL)sLetablechockactiongComplete:(NSInteger)THRash;
++ (BOOL)WNumberofpageinrotatescrollview:(NSInteger)THRash;
++ (BOOL)vRotatescrollviewFViewforitematindexeReusingview:(NSInteger)THRash;
++ (BOOL)PLerotatescrollviewvDidclickpageatindex:(NSInteger)THRash;
++ (BOOL)tLerotatescrollvieweDidmovedtopageatindex:(NSInteger)THRash;
++ (BOOL)KlanterSlideView:(NSInteger)THRash;
++ (BOOL)ybookMailViewController:(NSInteger)THRash;
++ (BOOL)TViewcontrollerwithsegmentregisteritemsSegmentitem:(NSInteger)THRash;
++ (BOOL)OzwrChainReactionEventTabBarDidReClickAfterAppear:(NSInteger)THRash;
++ (BOOL)csegmentRecivedMemoryWarning:(NSInteger)THRash;
++ (BOOL)SsegmentViewWillAppear:(NSInteger)THRash;
++ (BOOL)tsegmentViewWillDisappear:(NSInteger)THRash;
++ (BOOL)psegmentDidLoadViewController:(NSInteger)THRash;
++ (BOOL)muniqueIdentifier:(NSInteger)THRash;
++ (BOOL)zsegmentTitle:(NSInteger)THRash;
+
+@end

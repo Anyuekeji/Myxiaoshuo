@@ -1,0 +1,42 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashYYDiskCachepP: NSObject
++ (BOOL)AR_Trimrecursively:(NSInteger)THRash;
++ (BOOL)KZ_Triminbackground:(NSInteger)THRash;
++ (BOOL)FV_Trimtocost:(NSInteger)THRash;
++ (BOOL)pU_Trimtocount:(NSInteger)THRash;
++ (BOOL)tG_Trimtoage:(NSInteger)THRash;
++ (BOOL)cI_Trimtofreediskspace:(NSInteger)THRash;
++ (BOOL)OM_Filenameforkey:(NSInteger)THRash;
++ (BOOL)hF_Appwillbeterminated:(NSInteger)THRash;
++ (BOOL)GOdealloc:(NSInteger)THRash;
++ (BOOL)RVinit:(NSInteger)THRash;
++ (BOOL)DZinitwithpath:(NSInteger)THRash;
++ (BOOL)oGinitwithpathiinlinethreshold:(NSInteger)THRash;
++ (BOOL)vTcontainsobjectforkey:(NSInteger)THRash;
++ (BOOL)TUcontainsobjectforkeylwithblock:(NSInteger)THRash;
++ (BOOL)wVobjectforkey:(NSInteger)THRash;
++ (BOOL)VFobjectforkeyawithblock:(NSInteger)THRash;
++ (BOOL)QHsetobjectbforkey:(NSInteger)THRash;
++ (BOOL)jTsetobjectgforkeytwithblock:(NSInteger)THRash;
++ (BOOL)jBremoveobjectforkey:(NSInteger)THRash;
++ (BOOL)bMremoveobjectforkeyywithblock:(NSInteger)THRash;
++ (BOOL)ORremoveallobjects:(NSInteger)THRash;
++ (BOOL)HMremoveallobjectswithblock:(NSInteger)THRash;
++ (BOOL)DIremoveallobjectswithprogressblockvendblock:(NSInteger)THRash;
++ (BOOL)gRtotalcount:(NSInteger)THRash;
++ (BOOL)XVtotalcountwithblock:(NSInteger)THRash;
++ (BOOL)vNtotalcost:(NSInteger)THRash;
++ (BOOL)YMtotalcostwithblock:(NSInteger)THRash;
++ (BOOL)TJtrimtocount:(NSInteger)THRash;
++ (BOOL)oAtrimtocountcwithblock:(NSInteger)THRash;
++ (BOOL)pItrimtocost:(NSInteger)THRash;
++ (BOOL)LGtrimtocostowithblock:(NSInteger)THRash;
++ (BOOL)vWtrimtoage:(NSInteger)THRash;
++ (BOOL)iPtrimtoagekwithblock:(NSInteger)THRash;
++ (BOOL)xQgetextendeddatafromobject:(NSInteger)THRash;
++ (BOOL)QHsetextendeddatattoobject:(NSInteger)THRash;
++ (BOOL)YMdescription:(NSInteger)THRash;
++ (BOOL)rMerrorlogsenabled:(NSInteger)THRash;
++ (BOOL)NYseterrorlogsenabled:(NSInteger)THRash;
+
+@end

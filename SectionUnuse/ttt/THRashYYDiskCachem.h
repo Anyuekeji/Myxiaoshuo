@@ -1,0 +1,42 @@
+#import <Foundation/Foundation.h>
+@interface THRashYYDiskCachem: NSObject
++ (BOOL)e_Trimrecursivelythrash:(NSInteger)THRash;
++ (BOOL)A_Triminbackgroundthrash:(NSInteger)THRash;
++ (BOOL)L_Trimtocostthrash:(NSInteger)THRash;
++ (BOOL)l_Trimtocountthrash:(NSInteger)THRash;
++ (BOOL)a_Trimtoagethrash:(NSInteger)THRash;
++ (BOOL)c_Trimtofreediskspacethrash:(NSInteger)THRash;
++ (BOOL)e_Filenameforkeythrash:(NSInteger)THRash;
++ (BOOL)k_Appwillbeterminatedthrash:(NSInteger)THRash;
++ (BOOL)MDeallocthrash:(NSInteger)THRash;
++ (BOOL)YInitthrash:(NSInteger)THRash;
++ (BOOL)QInitwithpaththrash:(NSInteger)THRash;
++ (BOOL)pInitwithpathinlinethresholdthrash:(NSInteger)THRash;
++ (BOOL)cContainsobjectforkeythrash:(NSInteger)THRash;
++ (BOOL)oContainsobjectforkeywithblockthrash:(NSInteger)THRash;
++ (BOOL)HObjectforkeythrash:(NSInteger)THRash;
++ (BOOL)dObjectforkeywithblockthrash:(NSInteger)THRash;
++ (BOOL)eSetobjectforkeythrash:(NSInteger)THRash;
++ (BOOL)BSetobjectforkeywithblockthrash:(NSInteger)THRash;
++ (BOOL)oRemoveobjectforkeythrash:(NSInteger)THRash;
++ (BOOL)jRemoveobjectforkeywithblockthrash:(NSInteger)THRash;
++ (BOOL)nRemoveallobjectsthrash:(NSInteger)THRash;
++ (BOOL)uRemoveallobjectswithblockthrash:(NSInteger)THRash;
++ (BOOL)dRemoveallobjectswithprogressblockendblockthrash:(NSInteger)THRash;
++ (BOOL)JTotalcountthrash:(NSInteger)THRash;
++ (BOOL)ZTotalcountwithblockthrash:(NSInteger)THRash;
++ (BOOL)ZTotalcostthrash:(NSInteger)THRash;
++ (BOOL)bTotalcostwithblockthrash:(NSInteger)THRash;
++ (BOOL)GTrimtocountthrash:(NSInteger)THRash;
++ (BOOL)NTrimtocountwithblockthrash:(NSInteger)THRash;
++ (BOOL)FTrimtocostthrash:(NSInteger)THRash;
++ (BOOL)ITrimtocostwithblockthrash:(NSInteger)THRash;
++ (BOOL)UTrimtoagethrash:(NSInteger)THRash;
++ (BOOL)yTrimtoagewithblockthrash:(NSInteger)THRash;
++ (BOOL)CGetextendeddatafromobjectthrash:(NSInteger)THRash;
++ (BOOL)KSetextendeddatatoobjectthrash:(NSInteger)THRash;
++ (BOOL)ZDescriptionthrash:(NSInteger)THRash;
++ (BOOL)MErrorlogsenabledthrash:(NSInteger)THRash;
++ (BOOL)USeterrorlogsenabledthrash:(NSInteger)THRash;
+
+@end

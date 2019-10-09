@@ -1,0 +1,45 @@
+#import <Foundation/Foundation.h>
+@interface THRashMBProgressHUDA: NSObject
++ (BOOL)JShowhudaddedtoanimatedthrash:(NSInteger)THRash;
++ (BOOL)HHidehudforviewanimatedthrash:(NSInteger)THRash;
++ (BOOL)HHideallhudsforviewanimatedthrash:(NSInteger)THRash;
++ (BOOL)SHudforviewthrash:(NSInteger)THRash;
++ (BOOL)TAllhudsforviewthrash:(NSInteger)THRash;
++ (BOOL)iInitwithframethrash:(NSInteger)THRash;
++ (BOOL)YSetblurthrash:(NSInteger)THRash;
++ (BOOL)AInitwithviewthrash:(NSInteger)THRash;
++ (BOOL)aInitwithwindowthrash:(NSInteger)THRash;
++ (BOOL)ZDeallocthrash:(NSInteger)THRash;
++ (BOOL)WShowthrash:(NSInteger)THRash;
++ (BOOL)KHidethrash:(NSInteger)THRash;
++ (BOOL)fHideafterdelaythrash:(NSInteger)THRash;
++ (BOOL)KHidedelayedthrash:(NSInteger)THRash;
++ (BOOL)OHandlegracetimerthrash:(NSInteger)THRash;
++ (BOOL)pHandleminshowtimerthrash:(NSInteger)THRash;
++ (BOOL)XDidmovetosuperviewthrash:(NSInteger)THRash;
++ (BOOL)kShowusinganimationthrash:(NSInteger)THRash;
++ (BOOL)tHideusinganimationthrash:(NSInteger)THRash;
++ (BOOL)HAnimationfinishedfinishedcontextthrash:(NSInteger)THRash;
++ (BOOL)TDonethrash:(NSInteger)THRash;
++ (BOOL)CShowwhileexecutingontargetwithobjectanimatedthrash:(NSInteger)THRash;
++ (BOOL)FShowanimatedwhileexecutingblockthrash:(NSInteger)THRash;
++ (BOOL)AShowanimatedwhileexecutingblockcompletionblockthrash:(NSInteger)THRash;
++ (BOOL)lShowanimatedwhileexecutingblockonqueuethrash:(NSInteger)THRash;
++ (BOOL)bShowanimatedwhileexecutingblockonqueuecompletionblockthrash:(NSInteger)THRash;
++ (BOOL)OLaunchexecutionthrash:(NSInteger)THRash;
++ (BOOL)iCleanupthrash:(NSInteger)THRash;
++ (BOOL)VSetuplabelsthrash:(NSInteger)THRash;
++ (BOOL)lUpdateindicatorsthrash:(NSInteger)THRash;
++ (BOOL)fLayoutsubviewsthrash:(NSInteger)THRash;
++ (BOOL)jDrawrectthrash:(NSInteger)THRash;
++ (BOOL)nRegisterforkvothrash:(NSInteger)THRash;
++ (BOOL)uUnregisterfromkvothrash:(NSInteger)THRash;
++ (BOOL)NObservablekeypathsthrash:(NSInteger)THRash;
++ (BOOL)HObservevalueforkeypathofobjectchangecontextthrash:(NSInteger)THRash;
++ (BOOL)PUpdateuiforkeypaththrash:(NSInteger)THRash;
++ (BOOL)JRegisterfornotificationsthrash:(NSInteger)THRash;
++ (BOOL)VUnregisterfromnotificationsthrash:(NSInteger)THRash;
++ (BOOL)qDeviceorientationdidchangethrash:(NSInteger)THRash;
++ (BOOL)PSettransformforcurrentorientationthrash:(NSInteger)THRash;
+
+@end

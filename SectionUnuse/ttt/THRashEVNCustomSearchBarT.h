@@ -1,0 +1,44 @@
+#import <Foundation/Foundation.h>
+@interface THRashEVNCustomSearchBarT: NSObject
++ (BOOL)AInitwithframe:(NSInteger)THRash;
++ (BOOL)KawakeFromNib:(NSInteger)THRash;
++ (BOOL)NlayoutSubviews:(NSInteger)THRash;
++ (BOOL)KintrinsicContentSize:(NSInteger)THRash;
++ (BOOL)finitView:(NSInteger)THRash;
++ (BOOL)OcancelButton:(NSInteger)THRash;
++ (BOOL)StextField:(NSInteger)THRash;
++ (BOOL)oSeticonalign:(NSInteger)THRash;
++ (BOOL)qiconImgButton:(NSInteger)THRash;
++ (BOOL)BiconCenterImgButton:(NSInteger)THRash;
++ (BOOL)HAjusticonwith:(NSInteger)THRash;
++ (BOOL)ltext:(NSInteger)THRash;
++ (BOOL)wSettext:(NSInteger)THRash;
++ (BOOL)LSettextfont:(NSInteger)THRash;
++ (BOOL)QSettextborderstyle:(NSInteger)THRash;
++ (BOOL)USettextcolor:(NSInteger)THRash;
++ (BOOL)bSeticonimage:(NSInteger)THRash;
++ (BOOL)MSetplaceholder:(NSInteger)THRash;
++ (BOOL)CSetbackgroundimage:(NSInteger)THRash;
++ (BOOL)ySetkeyboardtype:(NSInteger)THRash;
++ (BOOL)BSetinputview:(NSInteger)THRash;
++ (BOOL)QisUserInteractionEnabled:(NSInteger)THRash;
++ (BOOL)OSetinputaccessoryview:(NSInteger)THRash;
++ (BOOL)BSettextfieldcolor:(NSInteger)THRash;
++ (BOOL)cSetplaceholdercolor:(NSInteger)THRash;
++ (BOOL)SisFirstResponder:(NSInteger)THRash;
++ (BOOL)YresignFirstResponder:(NSInteger)THRash;
++ (BOOL)qbecomeFirstResponder:(NSInteger)THRash;
++ (BOOL)gcancelButtonTouched:(NSInteger)THRash;
++ (BOOL)eSetautocapitalizationmode:(NSInteger)THRash;
++ (BOOL)VTextfieldshouldbeginediting:(NSInteger)THRash;
++ (BOOL)uTextfielddidbeginediting:(NSInteger)THRash;
++ (BOOL)gTextfieldshouldendediting:(NSInteger)THRash;
++ (BOOL)WTextfielddidendediting:(NSInteger)THRash;
++ (BOOL)uTextfielddidchange:(NSInteger)THRash;
++ (BOOL)GTextfieldDShouldchangecharactersinrangelReplacementstring:(NSInteger)THRash;
++ (BOOL)dTextfieldshouldclear:(NSInteger)THRash;
++ (BOOL)ATextfieldshouldreturn:(NSInteger)THRash;
++ (BOOL)rObservevalueforkeypathKOfobjectNChangesContext:(NSInteger)THRash;
++ (BOOL)adealloc:(NSInteger)THRash;
+
+@end

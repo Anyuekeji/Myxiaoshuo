@@ -1,0 +1,41 @@
+#import <Foundation/Foundation.h>
+@interface THRashFBSDKGraphRequestConnectiono: NSObject
++ (BOOL)dInitthrash:(NSInteger)THRash;
++ (BOOL)BDeallocthrash:(NSInteger)THRash;
++ (BOOL)sSetdefaultconnectiontimeoutthrash:(NSInteger)THRash;
++ (BOOL)sAddrequestcompletionhandlerthrash:(NSInteger)THRash;
++ (BOOL)NAddrequestbatchentrynamecompletionhandlerthrash:(NSInteger)THRash;
++ (BOOL)RAddrequestbatchparameterscompletionhandlerthrash:(NSInteger)THRash;
++ (BOOL)MAddrequestcompletionhandlerbatchentrynamethrash:(NSInteger)THRash;
++ (BOOL)aAddrequestcompletionhandlerbatchparametersthrash:(NSInteger)THRash;
++ (BOOL)aCancelthrash:(NSInteger)THRash;
++ (BOOL)jOverridegraphapiversionthrash:(NSInteger)THRash;
++ (BOOL)rOverrideversionpartwiththrash:(NSInteger)THRash;
++ (BOOL)jStartthrash:(NSInteger)THRash;
++ (BOOL)iSetdelegatequeuethrash:(NSInteger)THRash;
++ (BOOL)dAddrequesttobatchattachmentsbatchtokenthrash:(NSInteger)THRash;
++ (BOOL)GAppendattachmentstobodyaddformdataloggerthrash:(NSInteger)THRash;
++ (BOOL)vAppendjsonrequeststobodyandnameattachmentsloggerthrash:(NSInteger)THRash;
++ (BOOL)l_Shouldwarnonmissingfieldsparamthrash:(NSInteger)THRash;
++ (BOOL)n_Validatefieldsparamforgetrequeststhrash:(NSInteger)THRash;
++ (BOOL)QRequestwithbatchtimeoutthrash:(NSInteger)THRash;
++ (BOOL)uUrlstringforsinglerequestforbatchthrash:(NSInteger)THRash;
++ (BOOL)xCompletefbsdkurlsessionwithresponsedatanetworkerrorthrash:(NSInteger)THRash;
++ (BOOL)qParsejsonresponseerrorstatuscodethrash:(NSInteger)THRash;
++ (BOOL)CParsejsonorotherwiseerrorthrash:(NSInteger)THRash;
++ (BOOL)hCompletewithresultsnetworkerrorthrash:(NSInteger)THRash;
++ (BOOL)AProcessresultbodyerrormetadatacannotifydelegatethrash:(NSInteger)THRash;
++ (BOOL)AProcessresultdebugdictionarythrash:(NSInteger)THRash;
++ (BOOL)YErrorfromresultrequestthrash:(NSInteger)THRash;
++ (BOOL)MErrorwithcodestatuscodeparsedjsonresponseinnererrormessagethrash:(NSInteger)THRash;
++ (BOOL)kLogrequestbodylengthbodyloggerattachmentloggerthrash:(NSInteger)THRash;
++ (BOOL)QAccesstokenwithrequestthrash:(NSInteger)THRash;
++ (BOOL)WRegistertokentoomitfromlogthrash:(NSInteger)THRash;
++ (BOOL)bUseragentthrash:(NSInteger)THRash;
++ (BOOL)WDefaultsessionthrash:(NSInteger)THRash;
++ (BOOL)tCleanupsessionthrash:(NSInteger)THRash;
++ (BOOL)dUrlsessiontaskdidsendbodydatatotalbytessenttotalbytesexpectedtosendthrash:(NSInteger)THRash;
++ (BOOL)VProcessordidattemptrecoverydidrecovererrorthrash:(NSInteger)THRash;
++ (BOOL)GDescriptionthrash:(NSInteger)THRash;
+
+@end

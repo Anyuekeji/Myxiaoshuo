@@ -1,0 +1,41 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashFBSDKGraphRequestConnectionCY: NSObject
++ (BOOL)BXinit:(NSInteger)THRash;
++ (BOOL)aIdealloc:(NSInteger)THRash;
++ (BOOL)YYsetdefaultconnectiontimeout:(NSInteger)THRash;
++ (BOOL)JSaddrequestvcompletionhandler:(NSInteger)THRash;
++ (BOOL)cEaddrequestabatchentrynamegcompletionhandler:(NSInteger)THRash;
++ (BOOL)YUaddrequestnbatchparametersncompletionhandler:(NSInteger)THRash;
++ (BOOL)VIaddrequestocompletionhandlerbbatchentryname:(NSInteger)THRash;
++ (BOOL)nOaddrequestzcompletionhandlerebatchparameters:(NSInteger)THRash;
++ (BOOL)wWcancel:(NSInteger)THRash;
++ (BOOL)uAoverridegraphapiversion:(NSInteger)THRash;
++ (BOOL)rBoverrideversionpartwith:(NSInteger)THRash;
++ (BOOL)UEstart:(NSInteger)THRash;
++ (BOOL)UAsetdelegatequeue:(NSInteger)THRash;
++ (BOOL)PJaddrequestptobatchfattachmentsnbatchtoken:(NSInteger)THRash;
++ (BOOL)bHappendattachmentsntobodyuaddformdataelogger:(NSInteger)THRash;
++ (BOOL)QKappendjsonrequestshtobodynandnameattachmentsllogger:(NSInteger)THRash;
++ (BOOL)mM_Shouldwarnonmissingfieldsparam:(NSInteger)THRash;
++ (BOOL)cQ_Validatefieldsparamforgetrequests:(NSInteger)THRash;
++ (BOOL)bSrequestwithbatchwtimeout:(NSInteger)THRash;
++ (BOOL)qMurlstringforsinglerequestkforbatch:(NSInteger)THRash;
++ (BOOL)GIcompletefbsdkurlsessionwithresponsecdatannetworkerror:(NSInteger)THRash;
++ (BOOL)SYparsejsonresponsegerrorcstatuscode:(NSInteger)THRash;
++ (BOOL)UKparsejsonorotherwisejerror:(NSInteger)THRash;
++ (BOOL)zHcompletewithresultsdnetworkerror:(NSInteger)THRash;
++ (BOOL)jRprocessresultbodyyerrorkmetadatahcannotifydelegate:(NSInteger)THRash;
++ (BOOL)WTprocessresultdebugdictionary:(NSInteger)THRash;
++ (BOOL)eFerrorfromresulterequest:(NSInteger)THRash;
++ (BOOL)JNerrorwithcodecstatuscodeqparsedjsonresponserinnererrorvmessage:(NSInteger)THRash;
++ (BOOL)SElogrequestubodylengthnbodyloggerlattachmentlogger:(NSInteger)THRash;
++ (BOOL)bPaccesstokenwithrequest:(NSInteger)THRash;
++ (BOOL)qKregistertokentoomitfromlog:(NSInteger)THRash;
++ (BOOL)PUuseragent:(NSInteger)THRash;
++ (BOOL)VFdefaultsession:(NSInteger)THRash;
++ (BOOL)lScleanupsession:(NSInteger)THRash;
++ (BOOL)kSurlsessionvtaskcdidsendbodydataetotalbytessentytotalbytesexpectedtosend:(NSInteger)THRash;
++ (BOOL)BRprocessordidattemptrecoveryhdidrecoverzerror:(NSInteger)THRash;
++ (BOOL)rIdescription:(NSInteger)THRash;
+
+@end

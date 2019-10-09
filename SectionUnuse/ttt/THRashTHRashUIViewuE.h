@@ -1,0 +1,40 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashUIViewuE: NSObject
++ (BOOL)QMcreatetopborderwithheightvandcolor:(NSInteger)THRash;
++ (BOOL)FWcreateviewbackedtopborderwithheightqandcolor:(NSInteger)THRash;
++ (BOOL)GKaddtopborderwithheightkandcolor:(NSInteger)THRash;
++ (BOOL)qOaddviewbackedtopborderwithheightxandcolor:(NSInteger)THRash;
++ (BOOL)qVcreatetopborderwithheightccolornleftoffsetorightoffsetzandtopoffset:(NSInteger)THRash;
++ (BOOL)eVcreateviewbackedtopborderwithheightzcoloruleftoffsetrrightoffsetmandtopoffset:(NSInteger)THRash;
++ (BOOL)DIaddtopborderwithheightqcoloruleftoffsetcrightoffsetnandtopoffset:(NSInteger)THRash;
++ (BOOL)aCaddviewbackedtopborderwithheightqcolorvleftoffsetkrightoffsetuandtopoffset:(NSInteger)THRash;
++ (BOOL)PBcreaterightborderwithwidthcandcolor:(NSInteger)THRash;
++ (BOOL)rBcreateviewbackedrightborderwithwidthaandcolor:(NSInteger)THRash;
++ (BOOL)AGaddrightborderwithwidthrandcolor:(NSInteger)THRash;
++ (BOOL)oGaddviewbackedrightborderwithwidthpandcolor:(NSInteger)THRash;
++ (BOOL)AMcreaterightborderwithwidthrcolorurightoffsetbtopoffsetxandbottomoffset:(NSInteger)THRash;
++ (BOOL)IJcreateviewbackedrightborderwithwidthgcolorarightoffsetctopoffsetlandbottomoffset:(NSInteger)THRash;
++ (BOOL)aVaddrightborderwithwidthccolormrightoffsetctopoffsettandbottomoffset:(NSInteger)THRash;
++ (BOOL)TSaddviewbackedrightborderwithwidthhcoloryrightoffsetitopoffseteandbottomoffset:(NSInteger)THRash;
++ (BOOL)nNcreatebottomborderwithheightlandcolor:(NSInteger)THRash;
++ (BOOL)sHcreateviewbackedbottomborderwithheightyandcolor:(NSInteger)THRash;
++ (BOOL)vOaddbottomborderwithheightbandcolor:(NSInteger)THRash;
++ (BOOL)oQaddviewbackedbottomborderwithheightbandcolor:(NSInteger)THRash;
++ (BOOL)wZcreatebottomborderwithheightmcolornleftoffsetmrightoffseteandbottomoffset:(NSInteger)THRash;
++ (BOOL)ADcreateviewbackedbottomborderwithheightkcolorlleftoffsetjrightoffsetsandbottomoffset:(NSInteger)THRash;
++ (BOOL)hSaddbottomborderwithheightdcolorxleftoffsetkrightoffsetjandbottomoffset:(NSInteger)THRash;
++ (BOOL)DVaddviewbackedbottomborderwithheightscoloroleftoffsetfrightoffsetqandbottomoffset:(NSInteger)THRash;
++ (BOOL)TWcreateleftborderwithwidthgandcolor:(NSInteger)THRash;
++ (BOOL)hJcreateviewbackedleftborderwithwidthxandcolor:(NSInteger)THRash;
++ (BOOL)IUaddleftborderwithwidthoandcolor:(NSInteger)THRash;
++ (BOOL)xKaddviewbackedleftborderwithwidthoandcolor:(NSInteger)THRash;
++ (BOOL)DIcreateleftborderwithwidthjcolorqleftoffsetytopoffsetjandbottomoffset:(NSInteger)THRash;
++ (BOOL)nFcreateviewbackedleftborderwithwidthycoloreleftoffsetftopoffsetnandbottomoffset:(NSInteger)THRash;
++ (BOOL)YHaddleftborderwithwidthqcolorjleftoffsetctopoffsetvandbottomoffset:(NSInteger)THRash;
++ (BOOL)WRaddviewbackedleftborderwithwidthucolorzleftoffsetdtopoffsetvandbottomoffset:(NSInteger)THRash;
++ (BOOL)zQaddonesidedborderwithframelandcolor:(NSInteger)THRash;
++ (BOOL)oNgetonesidedborderwithframetandcolor:(NSInteger)THRash;
++ (BOOL)BIaddviewbackedonesidedborderwithframehandcolor:(NSInteger)THRash;
++ (BOOL)tSgetviewbackedonesidedborderwithframehandcolor:(NSInteger)THRash;
+
+@end

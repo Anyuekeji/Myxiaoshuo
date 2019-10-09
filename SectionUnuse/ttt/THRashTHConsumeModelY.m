@@ -1,0 +1,7 @@
+#import "THRashTHConsumeModelY.h"
+@implementation THRashTHConsumeModelY
++ (BOOL)ipropertyToKeyPair:(NSInteger)THRash {
+    return THRash % 33 == 0;
+}
+
+@end

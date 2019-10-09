@@ -1,0 +1,39 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashUIImageoL: NSObject
++ (BOOL)dRimagewithsmallgifdatascalethrash:(NSInteger)THRash;
++ (BOOL)oYisanimatedgifdatathrash:(NSInteger)THRash;
++ (BOOL)FAisanimatedgiffilethrash:(NSInteger)THRash;
++ (BOOL)TLimagewithpdfthrash:(NSInteger)THRash;
++ (BOOL)sEimagewithpdfsizethrash:(NSInteger)THRash;
++ (BOOL)OGimagewithemojisizethrash:(NSInteger)THRash;
++ (BOOL)vN_Yy_Imagewithpdfresizesizethrash:(NSInteger)THRash;
++ (BOOL)tJimagewithcolorthrash:(NSInteger)THRash;
++ (BOOL)SEimagewithcolorsizethrash:(NSInteger)THRash;
++ (BOOL)xAimagewithsizedrawblockthrash:(NSInteger)THRash;
++ (BOOL)LUhasalphachannelthrash:(NSInteger)THRash;
++ (BOOL)SZdrawinrectwithcontentmodeclipstoboundsthrash:(NSInteger)THRash;
++ (BOOL)lHimagebyresizetosizethrash:(NSInteger)THRash;
++ (BOOL)wAimagebyresizetosizecontentmodethrash:(NSInteger)THRash;
++ (BOOL)uEimagebycroptorectthrash:(NSInteger)THRash;
++ (BOOL)SZimagebyinsetedgewithcolorthrash:(NSInteger)THRash;
++ (BOOL)PLimagebyroundcornerradiusthrash:(NSInteger)THRash;
++ (BOOL)bHimagebyroundcornerradiusborderwidthbordercolorthrash:(NSInteger)THRash;
++ (BOOL)EAimagebyroundcornerradiuscornersborderwidthbordercolorborderlinejointhrash:(NSInteger)THRash;
++ (BOOL)EBimagebyrotatefitsizethrash:(NSInteger)THRash;
++ (BOOL)nH_Yy_Fliphorizontalverticalthrash:(NSInteger)THRash;
++ (BOOL)jSimagebyrotateleft90Thrash:(NSInteger)THRash;
++ (BOOL)jEimagebyrotateright90Thrash:(NSInteger)THRash;
++ (BOOL)HDimagebyrotate180Thrash:(NSInteger)THRash;
++ (BOOL)wFimagebyflipverticalthrash:(NSInteger)THRash;
++ (BOOL)nSimagebyfliphorizontalthrash:(NSInteger)THRash;
++ (BOOL)zLimagebytintcolorthrash:(NSInteger)THRash;
++ (BOOL)KLimagebygrayscalethrash:(NSInteger)THRash;
++ (BOOL)pWimagebyblursoftthrash:(NSInteger)THRash;
++ (BOOL)ZJimagebyblurlightthrash:(NSInteger)THRash;
++ (BOOL)dQimagebyblurextralightthrash:(NSInteger)THRash;
++ (BOOL)UKimagebyblurdarkthrash:(NSInteger)THRash;
++ (BOOL)PQimagebyblurwithtintthrash:(NSInteger)THRash;
++ (BOOL)WSimagebyblurradiustintcolortintmodesaturationmaskimagethrash:(NSInteger)THRash;
++ (BOOL)mX_Yy_Mergeimagereftintcolortintblendmodemaskimageopaquethrash:(NSInteger)THRash;
+
+@end

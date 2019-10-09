@@ -1,0 +1,41 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashTHCartoonReadPageViewControllerne: NSObject
++ (BOOL)oZinitwithpara:(NSInteger)THRash;
++ (BOOL)eWviewdidload:(NSInteger)THRash;
++ (BOOL)aNdealloc:(NSInteger)THRash;
++ (BOOL)eOshouldshownavigationbar:(NSInteger)THRash;
++ (BOOL)RWprefersstatusbarhidden:(NSInteger)THRash;
++ (BOOL)oQviewdidappear:(NSInteger)THRash;
++ (BOOL)CIviewwilldisappear:(NSInteger)THRash;
++ (BOOL)uKdidreceivememorywarning:(NSInteger)THRash;
++ (BOOL)CYconfigureui:(NSInteger)THRash;
++ (BOOL)oNconfiguredata:(NSInteger)THRash;
++ (BOOL)uXconfigurenotification:(NSInteger)THRash;
++ (BOOL)hFcreatecartoonreadviewcontrollerwith:(NSInteger)THRash;
++ (BOOL)GKcreataddalertcontroller:(NSInteger)THRash;
++ (BOOL)APaddormoveloadingview:(NSInteger)THRash;
++ (BOOL)EJchangetopviewstatus:(NSInteger)THRash;
++ (BOOL)qOgesturerecognizerkshouldreceivetouch:(NSInteger)THRash;
++ (BOOL)POhandleshare:(NSInteger)THRash;
++ (BOOL)LZloadcartoonchapterdata:(NSInteger)THRash;
++ (BOOL)vShascurrentchapter:(NSInteger)THRash;
++ (BOOL)mWcartoonreadscrollviewdidscroll:(NSInteger)THRash;
++ (BOOL)cEnextchapterinreadviewcontroller:(NSInteger)THRash;
++ (BOOL)FUprechapterinreadviewcontroller:(NSInteger)THRash;
++ (BOOL)OIbackinreadtopview:(NSInteger)THRash;
++ (BOOL)JSshareinreadtopview:(NSInteger)THRash;
++ (BOOL)oBswitchunlockmodeinadverttisemodeireadtopviewuunlockmode:(NSInteger)THRash;
++ (BOOL)DLpreviouschapterincartoonreadbottomview:(NSInteger)THRash;
++ (BOOL)LAnextchapterincartoonreadbottompview:(NSInteger)THRash;
++ (BOOL)SIchangenewpagefresutltype:(NSInteger)THRash;
++ (BOOL)fRstartchangenewpagefresutltype:(NSInteger)THRash;
++ (BOOL)DLmenuincartoonreadbottomview:(NSInteger)THRash;
++ (BOOL)NOcommentincartoonreadbottomview:(NSInteger)THRash;
++ (BOOL)HEloadprogressvc:(NSInteger)THRash;
++ (BOOL)mRtopview:(NSInteger)THRash;
++ (BOOL)PTbottomview:(NSInteger)THRash;
++ (BOOL)rXseteditstate:(NSInteger)THRash;
++ (BOOL)BVeventavaliablecheck:(NSInteger)THRash;
++ (BOOL)rOeventrecievedobjectwithparams:(NSInteger)THRash;
+
+@end

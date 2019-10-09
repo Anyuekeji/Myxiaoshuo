@@ -1,0 +1,39 @@
+#import <Foundation/Foundation.h>
+@interface THRashTHRashTHFictionReadViewModelip: NSObject
++ (BOOL)gIsetup:(NSInteger)THRash;
++ (BOOL)cUconfigpaging:(NSInteger)THRash;
++ (BOOL)GXconfigchaperpaging:(NSInteger)THRash;
++ (BOOL)rQclearpageinfodic:(NSInteger)THRash;
++ (BOOL)OIchangeothercurrentpageing:(NSInteger)THRash;
++ (BOOL)RFstartloadfictiondata:(NSInteger)THRash;
++ (BOOL)lHgetcurrentmenuchaptermodel:(NSInteger)THRash;
++ (BOOL)TGgetchaptermodelwithchapterindex:(NSInteger)THRash;
++ (BOOL)VFcurrentpageutils:(NSInteger)THRash;
++ (BOOL)mXgetpageutilswithchapterindex:(NSInteger)THRash;
++ (BOOL)lYlocalfictionreadmodel:(NSInteger)THRash;
++ (BOOL)DWsavefictionreadmodel:(NSInteger)THRash;
++ (BOOL)AFfictionchaptermodel:(NSInteger)THRash;
++ (BOOL)DDlocalfictioncatalogffailure:(NSInteger)THRash;
++ (BOOL)FJloadchaptercontentwithmodel:(NSInteger)THRash;
++ (BOOL)BDsavefictioncontenttolocalwith:(NSInteger)THRash;
++ (BOOL)QLlocalfictionchaperreadmodel:(NSInteger)THRash;
++ (BOOL)HMstartloadfiction:(NSInteger)THRash;
++ (BOOL)sLloadfictionwithchapterindex:(NSInteger)THRash;
++ (BOOL)ZUloadchatperwithindexfcompetegfailure:(NSInteger)THRash;
++ (BOOL)gYprechapter:(NSInteger)THRash;
++ (BOOL)qCnextchapter:(NSInteger)THRash;
++ (BOOL)aGloadnextchapter:(NSInteger)THRash;
++ (BOOL)zJloadprechater:(NSInteger)THRash;
++ (BOOL)pFupdatechapterinfowithchapterindexopageindex:(NSInteger)THRash;
++ (BOOL)ZWname:(NSInteger)THRash;
++ (BOOL)PAfontchangedpagewithcurrentpage:(NSInteger)THRash;
++ (BOOL)kZstringwithpage:(NSInteger)THRash;
++ (BOOL)AGlastpage:(NSInteger)THRash;
++ (BOOL)eDchapterchargeresultjsuccess:(NSInteger)THRash;
++ (BOOL)eXstringwithchapterindexhpage:(NSInteger)THRash;
++ (BOOL)mPlastpagewithchapterindex:(NSInteger)THRash;
++ (BOOL)xNgetchapternamewithchapterindex:(NSInteger)THRash;
++ (BOOL)ASisadvertisesection:(NSInteger)THRash;
++ (BOOL)mIisneedshowad:(NSInteger)THRash;
+
+@end
