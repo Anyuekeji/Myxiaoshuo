@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment version="2304" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="THFictionFreeColViewCell" reuseIdentifier="THFictionFreeColViewCell" id="A4D-6g-Fu2" customClass="THFictionFreeColViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="210" height="70"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="210" height="70"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ay_defalut_image" translatesAutoresizingMaskIntoConstraints="NO" id="pnJ-wt-KjN">
+                        <rect key="frame" x="0.0" y="0.0" width="50" height="70"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="hJz-hF-aEE"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.8666666666666667" green="0.8666666666666667" blue="0.8666666666666667" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="雪球专刊 第八期至符号的…" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v0s-d8-0IT">
+                        <rect key="frame" x="65" y="3" width="145" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="kju-Mc-zlR"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.20392156859999999" green="0.18823529410000001" blue="0.1764705882" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="作者名称" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rgj-kz-o2J">
+                        <rect key="frame" x="65" y="45" width="49.5" height="16.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="16.5" id="kzQ-M8-LUy"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="pnJ-wt-KjN" secondAttribute="bottom" id="0kR-5s-fc6"/>
+                <constraint firstItem="rgj-kz-o2J" firstAttribute="leading" secondItem="v0s-d8-0IT" secondAttribute="leading" id="4U6-Xc-wz1"/>
+                <constraint firstItem="rgj-kz-o2J" firstAttribute="top" secondItem="v0s-d8-0IT" secondAttribute="bottom" constant="2" id="BBu-DM-Gbe"/>
+                <constraint firstItem="pnJ-wt-KjN" firstAttribute="leading" secondItem="A4D-6g-Fu2" secondAttribute="leading" id="OAc-y6-obT"/>
+                <constraint firstItem="v0s-d8-0IT" firstAttribute="leading" secondItem="pnJ-wt-KjN" secondAttribute="trailing" constant="15" id="aDD-Pt-kl2"/>
+                <constraint firstAttribute="trailing" secondItem="v0s-d8-0IT" secondAttribute="trailing" id="rWJ-ve-KEB"/>
+                <constraint firstItem="pnJ-wt-KjN" firstAttribute="top" secondItem="A4D-6g-Fu2" secondAttribute="top" id="tXv-Mz-OyZ"/>
+                <constraint firstItem="v0s-d8-0IT" firstAttribute="top" secondItem="A4D-6g-Fu2" secondAttribute="top" constant="3" id="zJB-lU-J1u"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="rMf-II-ajb"/>
+            <size key="customSize" width="210" height="70"/>
+            <connections>
+                <outlet property="cell_book_author_lab" destination="rgj-kz-o2J" id="ELZ-DO-kdq"/>
+                <outlet property="cell_book_imgView" destination="pnJ-wt-KjN" id="MXo-F5-HYp"/>
+                <outlet property="cell_book_title_lab" destination="v0s-d8-0IT" id="eXQ-Hg-ZsM"/>
+            </connections>
+            <point key="canvasLocation" x="11.594202898550726" y="243.75"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ay_defalut_image" width="400" height="500"/>
+    </resources>
+</document>

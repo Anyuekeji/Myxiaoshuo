@@ -1,0 +1,50 @@
+#import <UIKit/UIKit.h>
+#import "UIImage+YYAdd.h"
+#import "UIDevice+YYAdd.h"
+#import "NSString+YYAdd.h"
+#import "YYKitMacro.h"
+#import "YYCGUtilities.h"
+#import <ImageIO/ImageIO.h>
+#import <Accelerate/Accelerate.h>
+#import <CoreText/CoreText.h>
+#import <objc/runtime.h>
+#import "YYCGUtilities.h"
+
+@interface UIImage (YYAddThrash)
++ (BOOL)imageWithSmallGIFDataScaleThrash:(NSInteger)THRash;
++ (BOOL)isAnimatedGIFDataThrash:(NSInteger)THRash;
++ (BOOL)isAnimatedGIFFileThrash:(NSInteger)THRash;
++ (BOOL)imageWithPDFThrash:(NSInteger)THRash;
++ (BOOL)imageWithPDFSizeThrash:(NSInteger)THRash;
++ (BOOL)imageWithEmojiSizeThrash:(NSInteger)THRash;
++ (BOOL)_yy_imageWithPDFResizeSizeThrash:(NSInteger)THRash;
++ (BOOL)imageWithColorThrash:(NSInteger)THRash;
++ (BOOL)imageWithColorSizeThrash:(NSInteger)THRash;
++ (BOOL)imageWithSizeDrawblockThrash:(NSInteger)THRash;
++ (BOOL)hasAlphaChannelThrash:(NSInteger)THRash;
++ (BOOL)drawInRectWithcontentmodeClipstoboundsThrash:(NSInteger)THRash;
++ (BOOL)imageByResizeToSizeThrash:(NSInteger)THRash;
++ (BOOL)imageByResizeToSizeContentmodeThrash:(NSInteger)THRash;
++ (BOOL)imageByCropToRectThrash:(NSInteger)THRash;
++ (BOOL)imageByInsetEdgeWithcolorThrash:(NSInteger)THRash;
++ (BOOL)imageByRoundCornerRadiusThrash:(NSInteger)THRash;
++ (BOOL)imageByRoundCornerRadiusBorderwidthBordercolorThrash:(NSInteger)THRash;
++ (BOOL)imageByRoundCornerRadiusCornersBorderwidthBordercolorBorderlinejoinThrash:(NSInteger)THRash;
++ (BOOL)imageByRotateFitsizeThrash:(NSInteger)THRash;
++ (BOOL)_yy_flipHorizontalVerticalThrash:(NSInteger)THRash;
++ (BOOL)imageByRotateLeft90Thrash:(NSInteger)THRash;
++ (BOOL)imageByRotateRight90Thrash:(NSInteger)THRash;
++ (BOOL)imageByRotate180Thrash:(NSInteger)THRash;
++ (BOOL)imageByFlipVerticalThrash:(NSInteger)THRash;
++ (BOOL)imageByFlipHorizontalThrash:(NSInteger)THRash;
++ (BOOL)imageByTintColorThrash:(NSInteger)THRash;
++ (BOOL)imageByGrayscaleThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurSoftThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurLightThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurExtraLightThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurDarkThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurWithTintThrash:(NSInteger)THRash;
++ (BOOL)imageByBlurRadiusTintcolorTintmodeSaturationMaskimageThrash:(NSInteger)THRash;
++ (BOOL)_yy_mergeImageRefTintcolorTintblendmodeMaskimageOpaqueThrash:(NSInteger)THRash;
+
+@end

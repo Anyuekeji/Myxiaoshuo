@@ -1,0 +1,51 @@
+#import <UIKit/UIKit.h>
+#import <CoreText/CoreText.h>
+#import <YYKit/YYTextDebugOption.h>
+#import <YYKit/YYTextLine.h>
+#import <YYKit/YYTextInput.h>
+#import "YYTextDebugOption.h"
+#import "YYTextLine.h"
+#import "YYTextInput.h"
+#import "YYTextLayout.h"
+#import "YYKitMacro.h"
+#import "YYCGUtilities.h"
+#import "YYTextUtilities.h"
+#import "YYTextAttribute.h"
+#import "YYTextArchiver.h"
+#import "NSAttributedString+YYText.h"
+#import "UIFont+YYAdd.h"
+#import "YYTextContainer+Thrash.h"
+
+@interface YYTextContainer (ThrashThrash)
++ (BOOL)containerWithSizeThrashThrash:(NSInteger)THRash;
++ (BOOL)containerWithSizeInsetsThrashThrash:(NSInteger)THRash;
++ (BOOL)containerWithPathThrashThrash:(NSInteger)THRash;
++ (BOOL)initThrashThrash:(NSInteger)THRash;
++ (BOOL)copyWithZoneThrashThrash:(NSInteger)THRash;
++ (BOOL)mutableCopyWithZoneThrashThrash:(NSInteger)THRash;
++ (BOOL)encodeWithCoderThrashThrash:(NSInteger)THRash;
++ (BOOL)initWithCoderThrashThrash:(NSInteger)THRash;
++ (BOOL)sizeThrashThrash:(NSInteger)THRash;
++ (BOOL)setSizeThrashThrash:(NSInteger)THRash;
++ (BOOL)insetsThrashThrash:(NSInteger)THRash;
++ (BOOL)setInsetsThrashThrash:(NSInteger)THRash;
++ (BOOL)pathThrashThrash:(NSInteger)THRash;
++ (BOOL)setPathThrashThrash:(NSInteger)THRash;
++ (BOOL)exclusionPathsThrashThrash:(NSInteger)THRash;
++ (BOOL)setExclusionPathsThrashThrash:(NSInteger)THRash;
++ (BOOL)isPathFillEvenOddThrashThrash:(NSInteger)THRash;
++ (BOOL)setPathFillEvenOddThrashThrash:(NSInteger)THRash;
++ (BOOL)pathLineWidthThrashThrash:(NSInteger)THRash;
++ (BOOL)setPathLineWidthThrashThrash:(NSInteger)THRash;
++ (BOOL)isVerticalFormThrashThrash:(NSInteger)THRash;
++ (BOOL)setVerticalFormThrashThrash:(NSInteger)THRash;
++ (BOOL)maximumNumberOfRowsThrashThrash:(NSInteger)THRash;
++ (BOOL)setMaximumNumberOfRowsThrashThrash:(NSInteger)THRash;
++ (BOOL)truncationTypeThrashThrash:(NSInteger)THRash;
++ (BOOL)setTruncationTypeThrashThrash:(NSInteger)THRash;
++ (BOOL)truncationTokenThrashThrash:(NSInteger)THRash;
++ (BOOL)setTruncationTokenThrashThrash:(NSInteger)THRash;
++ (BOOL)setLinePositionModifierThrashThrash:(NSInteger)THRash;
++ (BOOL)linePositionModifierThrashThrash:(NSInteger)THRash;
+
+@end

@@ -1,0 +1,53 @@
+#import <Foundation/Foundation.h>
+#import "THRashLEServiceK.h"
+
+@interface THRashLEServiceK (Thrash)
++ (BOOL)sDeallocthrashThrash:(NSInteger)THRash;
++ (BOOL)ySharedinstancethrashThrash:(NSInteger)THRash;
++ (BOOL)GInitthrashThrash:(NSInteger)THRash;
++ (BOOL)eSetupthrashThrash:(NSInteger)THRash;
++ (BOOL)HSetnetworkparamsthrashThrash:(NSInteger)THRash;
++ (BOOL)AEnablereachablilitythrashThrash:(NSInteger)THRash;
++ (BOOL)cIsnetworkconnectedthrashThrash:(NSInteger)THRash;
++ (BOOL)TRequestserializerclosejsonthrashThrash:(NSInteger)THRash;
++ (BOOL)YOpenrequestserializerjsonthrashThrash:(NSInteger)THRash;
++ (BOOL)kIsrequestserializerjsonthrashThrash:(NSInteger)THRash;
++ (BOOL)FManagerthrashThrash:(NSInteger)THRash;
++ (BOOL)lErrorwithleserviceerrortypelocalizeddescriptionvaluethrashThrash:(NSInteger)THRash;
++ (BOOL)eErrorfilterthrashThrash:(NSInteger)THRash;
++ (BOOL)ZSetuphttpheaderthrashThrash:(NSInteger)THRash;
++ (BOOL)NEncoderequestabsoluteurlthrashThrash:(NSInteger)THRash;
++ (BOOL)TEncoderequestwithpostparametersthrashThrash:(NSInteger)THRash;
++ (BOOL)nHttpheaderwithreqeustparamsthrashThrash:(NSInteger)THRash;
++ (BOOL)oDeschttpheaderwithrequestparamsthrashThrash:(NSInteger)THRash;
++ (BOOL)xAddhttpheaderkeyvaluethrashThrash:(NSInteger)THRash;
++ (BOOL)ZChecknetworkstatuswithfailureblockthrashThrash:(NSInteger)THRash;
++ (BOOL)UCheckapikeywithfailureblockthrashThrash:(NSInteger)THRash;
++ (BOOL)DAnalysisresponseobjectrequestcompletionfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)VDoanalysisresponseobjectcompletionfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)nReplaceurlparamsparametersthrashThrash:(NSInteger)THRash;
++ (BOOL)ERequestwithapiparametersmethodfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)JRequestpostwithapiparametersconstructingbodywithblockfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)TRequestparamsanalysisthrashThrash:(NSInteger)THRash;
++ (BOOL)vSendrequestsuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)hGetparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)IDesgetparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)gPostparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)vDespostparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)iAfpostparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)rPostparametersbodysuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)vPosturlrequestblocksuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)HPutparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)ZDeleteparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)dQueuecompleteblockthrashThrash:(NSInteger)THRash;
++ (BOOL)ORequestpairwithurlkeyrequestmethodparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)fRequestwithabsoluteurlkeyrequestmethodheaderparametersparameterssuccessfailurethrashThrash:(NSInteger)THRash;
++ (BOOL)tLogoutactionthrashThrash:(NSInteger)THRash;
++ (BOOL)FIsnetworkavaliablethrashThrash:(NSInteger)THRash;
++ (BOOL)CApihostthrashThrash:(NSInteger)THRash;
++ (BOOL)bImagehostthrashThrash:(NSInteger)THRash;
++ (BOOL)rSetapihostthrashThrash:(NSInteger)THRash;
++ (BOOL)sCurrentreachabilitystringthrashThrash:(NSInteger)THRash;
++ (BOOL)vCurrentreachabilitycodethrashThrash:(NSInteger)THRash;
+
+@end

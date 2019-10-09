@@ -1,0 +1,51 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreGraphics/CoreGraphics.h>
+#import "MBProgressHUD.h"
+#import <tgmath.h>
+#import <Accelerate/Accelerate.h>
+
+@interface MBProgressHUD (Thrash)
++ (BOOL)showHUDAddedToAnimatedThrash:(NSInteger)THRash;
++ (BOOL)hideHUDForViewAnimatedThrash:(NSInteger)THRash;
++ (BOOL)hideAllHUDsForViewAnimatedThrash:(NSInteger)THRash;
++ (BOOL)HUDForViewThrash:(NSInteger)THRash;
++ (BOOL)allHUDsForViewThrash:(NSInteger)THRash;
++ (BOOL)initWithFrameThrash:(NSInteger)THRash;
++ (BOOL)setBlurThrash:(NSInteger)THRash;
++ (BOOL)initWithViewThrash:(NSInteger)THRash;
++ (BOOL)initWithWindowThrash:(NSInteger)THRash;
++ (BOOL)deallocThrash:(NSInteger)THRash;
++ (BOOL)showThrash:(NSInteger)THRash;
++ (BOOL)hideThrash:(NSInteger)THRash;
++ (BOOL)hideAfterdelayThrash:(NSInteger)THRash;
++ (BOOL)hideDelayedThrash:(NSInteger)THRash;
++ (BOOL)handleGraceTimerThrash:(NSInteger)THRash;
++ (BOOL)handleMinShowTimerThrash:(NSInteger)THRash;
++ (BOOL)didMoveToSuperviewThrash:(NSInteger)THRash;
++ (BOOL)showUsingAnimationThrash:(NSInteger)THRash;
++ (BOOL)hideUsingAnimationThrash:(NSInteger)THRash;
++ (BOOL)animationFinishedFinishedContextThrash:(NSInteger)THRash;
++ (BOOL)doneThrash:(NSInteger)THRash;
++ (BOOL)showWhileExecutingOntargetWithobjectAnimatedThrash:(NSInteger)THRash;
++ (BOOL)showAnimatedWhileexecutingblockThrash:(NSInteger)THRash;
++ (BOOL)showAnimatedWhileexecutingblockCompletionblockThrash:(NSInteger)THRash;
++ (BOOL)showAnimatedWhileexecutingblockOnqueueThrash:(NSInteger)THRash;
++ (BOOL)showAnimatedWhileexecutingblockOnqueueCompletionblockThrash:(NSInteger)THRash;
++ (BOOL)launchExecutionThrash:(NSInteger)THRash;
++ (BOOL)cleanUpThrash:(NSInteger)THRash;
++ (BOOL)setupLabelsThrash:(NSInteger)THRash;
++ (BOOL)updateIndicatorsThrash:(NSInteger)THRash;
++ (BOOL)layoutSubviewsThrash:(NSInteger)THRash;
++ (BOOL)drawRectThrash:(NSInteger)THRash;
++ (BOOL)registerForKVOThrash:(NSInteger)THRash;
++ (BOOL)unregisterFromKVOThrash:(NSInteger)THRash;
++ (BOOL)observableKeypathsThrash:(NSInteger)THRash;
++ (BOOL)observeValueForKeyPathOfobjectChangeContextThrash:(NSInteger)THRash;
++ (BOOL)updateUIForKeypathThrash:(NSInteger)THRash;
++ (BOOL)registerForNotificationsThrash:(NSInteger)THRash;
++ (BOOL)unregisterFromNotificationsThrash:(NSInteger)THRash;
++ (BOOL)deviceOrientationDidChangeThrash:(NSInteger)THRash;
++ (BOOL)setTransformForCurrentOrientationThrash:(NSInteger)THRash;
+
+@end

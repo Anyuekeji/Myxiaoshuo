@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment version="2304" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="THFictionCartoonColViewCell" reuseIdentifier="THFictionCartoonColViewCell" id="8fW-5b-P1m" customClass="THFictionCartoonColViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="160" height="150"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="160" height="150"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ay_defalut_image" translatesAutoresizingMaskIntoConstraints="NO" id="nKg-Ot-dVR">
+                        <rect key="frame" x="0.0" y="0.0" width="160" height="100"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="100" id="enb-2u-Wu5"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.8666666666666667" green="0.8666666666666667" blue="0.8666666666666667" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="英雄漫画" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VkM-7m-737">
+                        <rect key="frame" x="0.0" y="110" width="160" height="40"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.20392156859999999" green="0.18823529410000001" blue="0.1764705882" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="VkM-7m-737" firstAttribute="leading" secondItem="8fW-5b-P1m" secondAttribute="leading" id="1tz-AT-fzS"/>
+                <constraint firstItem="nKg-Ot-dVR" firstAttribute="top" secondItem="8fW-5b-P1m" secondAttribute="top" id="CzY-9X-i2V"/>
+                <constraint firstAttribute="trailing" secondItem="nKg-Ot-dVR" secondAttribute="trailing" id="FzS-9x-Fr3"/>
+                <constraint firstItem="nKg-Ot-dVR" firstAttribute="leading" secondItem="8fW-5b-P1m" secondAttribute="leading" id="XYG-65-Q9D"/>
+                <constraint firstItem="VkM-7m-737" firstAttribute="top" secondItem="nKg-Ot-dVR" secondAttribute="bottom" constant="10" id="axH-ef-fGj"/>
+                <constraint firstAttribute="trailing" secondItem="VkM-7m-737" secondAttribute="trailing" id="qPx-1C-9sg"/>
+                <constraint firstAttribute="bottom" secondItem="VkM-7m-737" secondAttribute="bottom" id="t5H-2e-VIm"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="9Rd-2R-IK2"/>
+            <connections>
+                <outlet property="cell_book_imgView" destination="nKg-Ot-dVR" id="UBd-CI-An1"/>
+                <outlet property="cell_book_title_lab" destination="VkM-7m-737" id="Cyd-nH-rF7"/>
+            </connections>
+            <point key="canvasLocation" x="60.869565217391312" y="370.98214285714283"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ay_defalut_image" width="400" height="500"/>
+    </resources>
+</document>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment version="2304" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="THFictionRecommendColViewCell" id="Wfc-LJ-zPv" customClass="THFictionRecommendColViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="121.5"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="300" height="121.5"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ay_defalut_image" translatesAutoresizingMaskIntoConstraints="NO" id="y6w-sG-Jna">
+                        <rect key="frame" x="10" y="10" width="72.5" height="101.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="72.5" id="a9P-ok-4K5"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.8666666666666667" green="0.8666666666666667" blue="0.8666666666666667" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No.1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uwW-bh-Umk">
+                        <rect key="frame" x="92.5" y="10" width="52" height="24"/>
+                        <color key="backgroundColor" red="1" green="0.63529411759999999" blue="0.0" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="52" id="Mjj-Rg-lc0"/>
+                            <constraint firstAttribute="height" constant="24" id="sP4-HW-U9Q"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BILL WILLINGGAM MICHAAL ALLREDBILL WILLINGGAM…" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BQ1-AE-Irn">
+                        <rect key="frame" x="92.5" y="46" width="192.5" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="8nn-Mk-bHg"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.20392156859999999" green="0.18823529410000001" blue="0.1764705882" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2133人阅读" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rgb-CQ-0xs">
+                        <rect key="frame" x="92.5" y="95" width="192.5" height="16.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="16.5" id="8tj-f6-c0X"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.97254901960784312" green="0.97254901960784312" blue="0.97254901960784312" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color key="tintColor" red="0.97254901960784312" green="0.97254901960784312" blue="0.97254901960784312" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="BQ1-AE-Irn" firstAttribute="leading" secondItem="uwW-bh-Umk" secondAttribute="leading" id="5gS-34-pJK"/>
+                <constraint firstItem="uwW-bh-Umk" firstAttribute="leading" secondItem="y6w-sG-Jna" secondAttribute="trailing" constant="10" id="8DM-4M-s0C"/>
+                <constraint firstItem="rgb-CQ-0xs" firstAttribute="leading" secondItem="y6w-sG-Jna" secondAttribute="trailing" constant="10" id="EJL-XM-ofb"/>
+                <constraint firstItem="y6w-sG-Jna" firstAttribute="top" secondItem="Wfc-LJ-zPv" secondAttribute="top" constant="10" id="ZPc-Sh-PyR"/>
+                <constraint firstAttribute="trailing" secondItem="BQ1-AE-Irn" secondAttribute="trailing" constant="15" id="hqD-a2-ub9"/>
+                <constraint firstItem="BQ1-AE-Irn" firstAttribute="top" secondItem="uwW-bh-Umk" secondAttribute="bottom" constant="12" id="mia-e1-T0p"/>
+                <constraint firstItem="uwW-bh-Umk" firstAttribute="top" secondItem="y6w-sG-Jna" secondAttribute="top" id="mjd-mZ-bpo"/>
+                <constraint firstAttribute="trailing" secondItem="rgb-CQ-0xs" secondAttribute="trailing" constant="15" id="oM5-dJ-0os"/>
+                <constraint firstItem="rgb-CQ-0xs" firstAttribute="bottom" secondItem="y6w-sG-Jna" secondAttribute="bottom" id="sKe-DF-gOx"/>
+                <constraint firstItem="y6w-sG-Jna" firstAttribute="leading" secondItem="Wfc-LJ-zPv" secondAttribute="leading" constant="10" id="v02-Uq-60g"/>
+                <constraint firstAttribute="bottom" secondItem="y6w-sG-Jna" secondAttribute="bottom" constant="10" id="zF5-xp-dnr"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="gni-4i-FUe"/>
+            <size key="customSize" width="115" height="116"/>
+            <connections>
+                <outlet property="cell_book_title_lab" destination="BQ1-AE-Irn" id="eXR-yU-FeL"/>
+                <outlet property="cell_imgView" destination="y6w-sG-Jna" id="PXG-Eb-mwN"/>
+                <outlet property="cell_rankNum_lab" destination="uwW-bh-Umk" id="tOD-UF-JFh"/>
+                <outlet property="cell_readNumber_lab" destination="rgb-CQ-0xs" id="fGN-7b-tvM"/>
+            </connections>
+            <point key="canvasLocation" x="178" y="123"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ay_defalut_image" width="400" height="500"/>
+    </resources>
+</document>

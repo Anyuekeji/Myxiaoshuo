@@ -1,0 +1,51 @@
+#import <Foundation/Foundation.h>
+#import "THRashYYThreadSafeDictionaryU.h"
+
+@interface THRashYYThreadSafeDictionaryU (Thrash)
++ (BOOL)RinitThrash:(NSInteger)THRash;
++ (BOOL)hInitwithobjectsEForkeysThrash:(NSInteger)THRash;
++ (BOOL)gInitwithcapacityThrash:(NSInteger)THRash;
++ (BOOL)xInitwithobjectsLForkeyswCountThrash:(NSInteger)THRash;
++ (BOOL)DInitwithdictionaryThrash:(NSInteger)THRash;
++ (BOOL)tInitwithdictionaryXCopyitemsThrash:(NSInteger)THRash;
++ (BOOL)icountThrash:(NSInteger)THRash;
++ (BOOL)DObjectforkeyThrash:(NSInteger)THRash;
++ (BOOL)zkeyEnumeratorThrash:(NSInteger)THRash;
++ (BOOL)SallKeysThrash:(NSInteger)THRash;
++ (BOOL)cAllkeysforobjectThrash:(NSInteger)THRash;
++ (BOOL)sallValuesThrash:(NSInteger)THRash;
++ (BOOL)ldescriptionThrash:(NSInteger)THRash;
++ (BOOL)gdescriptionInStringsFileFormatThrash:(NSInteger)THRash;
++ (BOOL)eDescriptionwithlocaleThrash:(NSInteger)THRash;
++ (BOOL)hDescriptionwithlocalexIndentThrash:(NSInteger)THRash;
++ (BOOL)zIsequaltodictionaryThrash:(NSInteger)THRash;
++ (BOOL)ZobjectEnumeratorThrash:(NSInteger)THRash;
++ (BOOL)uObjectsforkeysvNotfoundmarkerThrash:(NSInteger)THRash;
++ (BOOL)xKeyssortedbyvalueusingselectorThrash:(NSInteger)THRash;
++ (BOOL)rGetobjectsZAndkeysThrash:(NSInteger)THRash;
++ (BOOL)MObjectforkeyedsubscriptThrash:(NSInteger)THRash;
++ (BOOL)cEnumeratekeysandobjectsusingblockThrash:(NSInteger)THRash;
++ (BOOL)dEnumeratekeysandobjectswithoptionsJUsingblockThrash:(NSInteger)THRash;
++ (BOOL)MKeyssortedbyvalueusingcomparatorThrash:(NSInteger)THRash;
++ (BOOL)BKeyssortedbyvaluewithoptionsPUsingcomparatorThrash:(NSInteger)THRash;
++ (BOOL)hKeysofentriespassingtestThrash:(NSInteger)THRash;
++ (BOOL)cKeysofentrieswithoptionsjPassingtestThrash:(NSInteger)THRash;
++ (BOOL)NRemoveobjectforkeyThrash:(NSInteger)THRash;
++ (BOOL)KSetobjectlForkeyThrash:(NSInteger)THRash;
++ (BOOL)fAddentriesfromdictionaryThrash:(NSInteger)THRash;
++ (BOOL)SremoveAllObjectsThrash:(NSInteger)THRash;
++ (BOOL)NRemoveobjectsforkeysThrash:(NSInteger)THRash;
++ (BOOL)jSetdictionaryThrash:(NSInteger)THRash;
++ (BOOL)iSetobjectWForkeyedsubscriptThrash:(NSInteger)THRash;
++ (BOOL)GCopywithzoneThrash:(NSInteger)THRash;
++ (BOOL)XMutablecopywithzoneThrash:(NSInteger)THRash;
++ (BOOL)KCountbyenumeratingwithstatenObjectsICountThrash:(NSInteger)THRash;
++ (BOOL)QIsequalThrash:(NSInteger)THRash;
++ (BOOL)thashThrash:(NSInteger)THRash;
++ (BOOL)xEntriesforkeysThrash:(NSInteger)THRash;
++ (BOOL)TjsonStringEncodedThrash:(NSInteger)THRash;
++ (BOOL)MjsonPrettyStringEncodedThrash:(NSInteger)THRash;
++ (BOOL)bPopobjectforkeyThrash:(NSInteger)THRash;
++ (BOOL)ePopentriesforkeysThrash:(NSInteger)THRash;
+
+@end

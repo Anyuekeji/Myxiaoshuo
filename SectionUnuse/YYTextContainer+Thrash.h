@@ -1,0 +1,50 @@
+#import <UIKit/UIKit.h>
+#import <CoreText/CoreText.h>
+#import <YYKit/YYTextDebugOption.h>
+#import <YYKit/YYTextLine.h>
+#import <YYKit/YYTextInput.h>
+#import "YYTextDebugOption.h"
+#import "YYTextLine.h"
+#import "YYTextInput.h"
+#import "YYTextLayout.h"
+#import "YYKitMacro.h"
+#import "YYCGUtilities.h"
+#import "YYTextUtilities.h"
+#import "YYTextAttribute.h"
+#import "YYTextArchiver.h"
+#import "NSAttributedString+YYText.h"
+#import "UIFont+YYAdd.h"
+
+@interface YYTextContainer (Thrash)
++ (BOOL)containerWithSizeThrash:(NSInteger)THRash;
++ (BOOL)containerWithSizeInsetsThrash:(NSInteger)THRash;
++ (BOOL)containerWithPathThrash:(NSInteger)THRash;
++ (BOOL)initThrash:(NSInteger)THRash;
++ (BOOL)copyWithZoneThrash:(NSInteger)THRash;
++ (BOOL)mutableCopyWithZoneThrash:(NSInteger)THRash;
++ (BOOL)encodeWithCoderThrash:(NSInteger)THRash;
++ (BOOL)initWithCoderThrash:(NSInteger)THRash;
++ (BOOL)sizeThrash:(NSInteger)THRash;
++ (BOOL)setSizeThrash:(NSInteger)THRash;
++ (BOOL)insetsThrash:(NSInteger)THRash;
++ (BOOL)setInsetsThrash:(NSInteger)THRash;
++ (BOOL)pathThrash:(NSInteger)THRash;
++ (BOOL)setPathThrash:(NSInteger)THRash;
++ (BOOL)exclusionPathsThrash:(NSInteger)THRash;
++ (BOOL)setExclusionPathsThrash:(NSInteger)THRash;
++ (BOOL)isPathFillEvenOddThrash:(NSInteger)THRash;
++ (BOOL)setPathFillEvenOddThrash:(NSInteger)THRash;
++ (BOOL)pathLineWidthThrash:(NSInteger)THRash;
++ (BOOL)setPathLineWidthThrash:(NSInteger)THRash;
++ (BOOL)isVerticalFormThrash:(NSInteger)THRash;
++ (BOOL)setVerticalFormThrash:(NSInteger)THRash;
++ (BOOL)maximumNumberOfRowsThrash:(NSInteger)THRash;
++ (BOOL)setMaximumNumberOfRowsThrash:(NSInteger)THRash;
++ (BOOL)truncationTypeThrash:(NSInteger)THRash;
++ (BOOL)setTruncationTypeThrash:(NSInteger)THRash;
++ (BOOL)truncationTokenThrash:(NSInteger)THRash;
++ (BOOL)setTruncationTokenThrash:(NSInteger)THRash;
++ (BOOL)setLinePositionModifierThrash:(NSInteger)THRash;
++ (BOOL)linePositionModifierThrash:(NSInteger)THRash;
+
+@end

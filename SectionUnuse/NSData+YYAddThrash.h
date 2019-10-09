@@ -1,0 +1,52 @@
+#import <Foundation/Foundation.h>
+#import "NSData+YYAdd.h"
+#import "YYKitMacro.h"
+
+@interface NSData (YYAddThrash)
++ (BOOL)md2StringThrash:(NSInteger)THRash;
++ (BOOL)md2DataThrash:(NSInteger)THRash;
++ (BOOL)md4StringThrash:(NSInteger)THRash;
++ (BOOL)md4DataThrash:(NSInteger)THRash;
++ (BOOL)md5StringThrash:(NSInteger)THRash;
++ (BOOL)md5DataThrash:(NSInteger)THRash;
++ (BOOL)sha1StringThrash:(NSInteger)THRash;
++ (BOOL)sha1DataThrash:(NSInteger)THRash;
++ (BOOL)sha224StringThrash:(NSInteger)THRash;
++ (BOOL)sha224DataThrash:(NSInteger)THRash;
++ (BOOL)sha256StringThrash:(NSInteger)THRash;
++ (BOOL)sha256DataThrash:(NSInteger)THRash;
++ (BOOL)sha384StringThrash:(NSInteger)THRash;
++ (BOOL)sha384DataThrash:(NSInteger)THRash;
++ (BOOL)sha512StringThrash:(NSInteger)THRash;
++ (BOOL)sha512DataThrash:(NSInteger)THRash;
++ (BOOL)hmacStringUsingAlgWithkeyThrash:(NSInteger)THRash;
++ (BOOL)hmacDataUsingAlgWithkeyThrash:(NSInteger)THRash;
++ (BOOL)hmacMD5StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacMD5DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA1StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA1DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA224StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA224DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA256StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA256DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA384StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA384DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA512StringWithKeyThrash:(NSInteger)THRash;
++ (BOOL)hmacSHA512DataWithKeyThrash:(NSInteger)THRash;
++ (BOOL)crc32StringThrash:(NSInteger)THRash;
++ (BOOL)crc32Thrash:(NSInteger)THRash;
++ (BOOL)aes256EncryptWithKeyIvThrash:(NSInteger)THRash;
++ (BOOL)aes256DecryptWithkeyIvThrash:(NSInteger)THRash;
++ (BOOL)utf8StringThrash:(NSInteger)THRash;
++ (BOOL)hexStringThrash:(NSInteger)THRash;
++ (BOOL)dataWithHexStringThrash:(NSInteger)THRash;
++ (BOOL)base64EncodedStringThrash:(NSInteger)THRash;
++ (BOOL)dataWithBase64EncodedStringThrash:(NSInteger)THRash;
++ (BOOL)jsonValueDecodedThrash:(NSInteger)THRash;
++ (BOOL)gzipInflateThrash:(NSInteger)THRash;
++ (BOOL)gzipDeflateThrash:(NSInteger)THRash;
++ (BOOL)zlibInflateThrash:(NSInteger)THRash;
++ (BOOL)zlibDeflateThrash:(NSInteger)THRash;
++ (BOOL)dataNamedThrash:(NSInteger)THRash;
+
+@end

@@ -1,0 +1,49 @@
+#import <Foundation/Foundation.h>
+#import "YYDiskCache.h"
+#import "YYKVStorage.h"
+#import "NSString+YYAdd.h"
+#import "UIDevice+YYAdd.h"
+#import <objc/runtime.h>
+#import <time.h>
+
+@interface YYDiskCache (Thrash)
++ (BOOL)_trimRecursivelyThrash:(NSInteger)THRash;
++ (BOOL)_trimInBackgroundThrash:(NSInteger)THRash;
++ (BOOL)_trimToCostThrash:(NSInteger)THRash;
++ (BOOL)_trimToCountThrash:(NSInteger)THRash;
++ (BOOL)_trimToAgeThrash:(NSInteger)THRash;
++ (BOOL)_trimToFreeDiskSpaceThrash:(NSInteger)THRash;
++ (BOOL)_filenameForKeyThrash:(NSInteger)THRash;
++ (BOOL)_appWillBeTerminatedThrash:(NSInteger)THRash;
++ (BOOL)deallocThrash:(NSInteger)THRash;
++ (BOOL)initThrash:(NSInteger)THRash;
++ (BOOL)initWithPathThrash:(NSInteger)THRash;
++ (BOOL)initWithPathInlinethresholdThrash:(NSInteger)THRash;
++ (BOOL)containsObjectForKeyThrash:(NSInteger)THRash;
++ (BOOL)containsObjectForKeyWithblockThrash:(NSInteger)THRash;
++ (BOOL)objectForKeyThrash:(NSInteger)THRash;
++ (BOOL)objectForKeyWithblockThrash:(NSInteger)THRash;
++ (BOOL)setObjectForkeyThrash:(NSInteger)THRash;
++ (BOOL)setObjectForkeyWithblockThrash:(NSInteger)THRash;
++ (BOOL)removeObjectForKeyThrash:(NSInteger)THRash;
++ (BOOL)removeObjectForKeyWithblockThrash:(NSInteger)THRash;
++ (BOOL)removeAllObjectsThrash:(NSInteger)THRash;
++ (BOOL)removeAllObjectsWithBlockThrash:(NSInteger)THRash;
++ (BOOL)removeAllObjectsWithProgressBlockEndblockThrash:(NSInteger)THRash;
++ (BOOL)totalCountThrash:(NSInteger)THRash;
++ (BOOL)totalCountWithBlockThrash:(NSInteger)THRash;
++ (BOOL)totalCostThrash:(NSInteger)THRash;
++ (BOOL)totalCostWithBlockThrash:(NSInteger)THRash;
++ (BOOL)trimToCountThrash:(NSInteger)THRash;
++ (BOOL)trimToCountWithblockThrash:(NSInteger)THRash;
++ (BOOL)trimToCostThrash:(NSInteger)THRash;
++ (BOOL)trimToCostWithblockThrash:(NSInteger)THRash;
++ (BOOL)trimToAgeThrash:(NSInteger)THRash;
++ (BOOL)trimToAgeWithblockThrash:(NSInteger)THRash;
++ (BOOL)getExtendedDataFromObjectThrash:(NSInteger)THRash;
++ (BOOL)setExtendedDataToobjectThrash:(NSInteger)THRash;
++ (BOOL)descriptionThrash:(NSInteger)THRash;
++ (BOOL)errorLogsEnabledThrash:(NSInteger)THRash;
++ (BOOL)setErrorLogsEnabledThrash:(NSInteger)THRash;
+
+@end

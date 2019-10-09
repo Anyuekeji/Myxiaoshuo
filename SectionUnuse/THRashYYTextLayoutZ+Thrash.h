@@ -1,0 +1,50 @@
+#import <Foundation/Foundation.h>
+#import "THRashYYTextLayoutZ.h"
+
+@interface THRashYYTextLayoutZ (Thrash)
++ (BOOL)m_InitthrashThrash:(NSInteger)THRash;
++ (BOOL)oLayoutwithcontainersizetextthrashThrash:(NSInteger)THRash;
++ (BOOL)PLayoutwithcontainertextthrashThrash:(NSInteger)THRash;
++ (BOOL)cLayoutwithcontainertextrangethrashThrash:(NSInteger)THRash;
++ (BOOL)yLayoutwithcontainerstextthrashThrash:(NSInteger)THRash;
++ (BOOL)fLayoutwithcontainerstextrangethrashThrash:(NSInteger)THRash;
++ (BOOL)GSetframesetterthrashThrash:(NSInteger)THRash;
++ (BOOL)CSetframethrashThrash:(NSInteger)THRash;
++ (BOOL)WDeallocthrashThrash:(NSInteger)THRash;
++ (BOOL)uEncodewithcoderthrashThrash:(NSInteger)THRash;
++ (BOOL)xInitwithcoderthrashThrash:(NSInteger)THRash;
++ (BOOL)oCopywithzonethrashThrash:(NSInteger)THRash;
++ (BOOL)q_RowindexforedgethrashThrash:(NSInteger)THRash;
++ (BOOL)R_ClosestrowindexforedgethrashThrash:(NSInteger)THRash;
++ (BOOL)G_RunforlinepositionthrashThrash:(NSInteger)THRash;
++ (BOOL)n_InsidecomposedcharactersequencespositionblockthrashThrash:(NSInteger)THRash;
++ (BOOL)d_InsideemojipositionblockthrashThrash:(NSInteger)THRash;
++ (BOOL)D_IsrighttoleftinlineatpointthrashThrash:(NSInteger)THRash;
++ (BOOL)Y_CorrectedrangewithedgethrashThrash:(NSInteger)THRash;
++ (BOOL)zLineindexforrowthrashThrash:(NSInteger)THRash;
++ (BOOL)gLinecountforrowthrashThrash:(NSInteger)THRash;
++ (BOOL)NRowindexforlinethrashThrash:(NSInteger)THRash;
++ (BOOL)cLineindexforpointthrashThrash:(NSInteger)THRash;
++ (BOOL)zClosestlineindexforpointthrashThrash:(NSInteger)THRash;
++ (BOOL)qOffsetfortextpositionlineindexthrashThrash:(NSInteger)THRash;
++ (BOOL)oTextpositionforpointlineindexthrashThrash:(NSInteger)THRash;
++ (BOOL)CClosestpositiontopointthrashThrash:(NSInteger)THRash;
++ (BOOL)kPositionforpointoldpositionotherpositionthrashThrash:(NSInteger)THRash;
++ (BOOL)HTextrangeatpointthrashThrash:(NSInteger)THRash;
++ (BOOL)iClosesttextrangeatpointthrashThrash:(NSInteger)THRash;
++ (BOOL)rTextrangebyextendingpositionthrashThrash:(NSInteger)THRash;
++ (BOOL)oTextrangebyextendingpositionindirectionoffsetthrashThrash:(NSInteger)THRash;
++ (BOOL)MLineindexforpositionthrashThrash:(NSInteger)THRash;
++ (BOOL)SLinepositionforpositionthrashThrash:(NSInteger)THRash;
++ (BOOL)ACaretrectforpositionthrashThrash:(NSInteger)THRash;
++ (BOOL)YFirstrectforrangethrashThrash:(NSInteger)THRash;
++ (BOOL)sRectforrangethrashThrash:(NSInteger)THRash;
++ (BOOL)wSelectionrectsforrangethrashThrash:(NSInteger)THRash;
++ (BOOL)rSelectionrectswithoutstartandendforrangethrashThrash:(NSInteger)THRash;
++ (BOOL)WSelectionrectswithonlystartandendforrangethrashThrash:(NSInteger)THRash;
++ (BOOL)WDrawincontextsizepointviewlayerdebugcancelthrashThrash:(NSInteger)THRash;
++ (BOOL)wDrawincontextsizedebugthrashThrash:(NSInteger)THRash;
++ (BOOL)UAddattachmenttoviewlayerthrashThrash:(NSInteger)THRash;
++ (BOOL)vRemoveattachmentfromviewandlayerthrashThrash:(NSInteger)THRash;
+
+@end
